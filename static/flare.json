@@ -1,12 +1,12 @@
 
 {
- "name": "flare",
+ "name": "Section",
  "children": [
   {
-   "name": "analytics",
+   "name": "Division",
    "children": [
     {
-     "name": "cluster",
+     "name": "Classe",
      "children": [
       {"name": "AgglomerativeCluster", "value": 3938},
       {"name": "CommunityStructure", "value": 3812},

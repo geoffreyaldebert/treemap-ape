@@ -146,7 +146,7 @@ export default {
     that.color = d3.scaleOrdinal(d3.schemeCategory20)
 
     // loads the data and calls the initialization methods
-    d3.json('../static/flare.json',
+    d3.json('../static/naf.json',
       function (error, data) {
         if (error) console.log(error)
         that.jsonData = data
