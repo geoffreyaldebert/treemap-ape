@@ -1,0 +1,4414 @@
+{
+  "name": "APE",
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "0111Z - Culture de c\u00e9r\u00e9ales (\u00e0 l'exception du riz), de l\u00e9gumineuses et de graines ol\u00e9agineuses", 
+                  "value": 196
+                }, 
+                {
+                  "name": "0113Z - Culture de l\u00e9gumes, de melons, de racines et de tubercules", 
+                  "value": 278
+                }, 
+                {
+                  "name": "0114Z - Culture de la canne \u00e0 sucre", 
+                  "value": 21
+                }, 
+                {
+                  "name": "0115Z - Culture du tabac", 
+                  "value": 1
+                }, 
+                {
+                  "name": "0119Z - Autres cultures non permanentes", 
+                  "value": 228
+                }
+              ], 
+              "name": "011 - Cultures non permanentes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0121Z - Culture de la vigne", 
+                  "value": 927
+                }, 
+                {
+                  "name": "0122Z - Culture de fruits tropicaux et subtropicaux", 
+                  "value": 24
+                }, 
+                {
+                  "name": "0123Z - Culture d'agrumes", 
+                  "value": 7
+                }, 
+                {
+                  "name": "0124Z - Culture de fruits \u00e0 p\u00e9pins et \u00e0 noyau", 
+                  "value": 97
+                }, 
+                {
+                  "name": "0125Z - Culture d'autres fruits d'arbres ou d'arbustes et de fruits \u00e0 coque", 
+                  "value": 30
+                }, 
+                {
+                  "name": "0126Z - Culture de fruits ol\u00e9agineux", 
+                  "value": 22
+                }, 
+                {
+                  "name": "0127Z - Culture de plantes \u00e0 boissons", 
+                  "value": 2
+                }, 
+                {
+                  "name": "0128Z - Culture de plantes \u00e0 \u00e9pices, aromatiques, m\u00e9dicinales et pharmaceutiques", 
+                  "value": 99
+                }, 
+                {
+                  "name": "0129Z - Autres cultures permanentes", 
+                  "value": 19
+                }
+              ], 
+              "name": "012 - Cultures permanentes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0130Z - Reproduction de plantes", 
+                  "value": 300
+                }
+              ], 
+              "name": "013 - Reproduction de plantes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0141Z - \u00c9levage de vaches laiti\u00e8res", 
+                  "value": 29
+                }, 
+                {
+                  "name": "0142Z - \u00c9levage d'autres bovins et de buffles", 
+                  "value": 142
+                }, 
+                {
+                  "name": "0143Z - \u00c9levage de chevaux et d'autres \u00e9quid\u00e9s", 
+                  "value": 639
+                }, 
+                {
+                  "name": "0144Z - \u00c9levage de chameaux et d'autres cam\u00e9lid\u00e9s", 
+                  "value": 4
+                }, 
+                {
+                  "name": "0145Z - \u00c9levage d'ovins et de caprins", 
+                  "value": 182
+                }, 
+                {
+                  "name": "0146Z - \u00c9levage de porcins", 
+                  "value": 29
+                }, 
+                {
+                  "name": "0147Z - \u00c9levage de volailles", 
+                  "value": 76
+                }, 
+                {
+                  "name": "0149Z - \u00c9levage d'autres animaux", 
+                  "value": 664
+                }
+              ], 
+              "name": "014 - Production animale"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0150Z - Culture et \u00e9levage associ\u00e9s", 
+                  "value": 153
+                }
+              ], 
+              "name": "015 - Culture et \u00e9levage associ\u00e9s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0161Z - Activit\u00e9s de soutien aux cultures", 
+                  "value": 149
+                }, 
+                {
+                  "name": "0162Z - Activit\u00e9s de soutien \u00e0 la production animale", 
+                  "value": 292
+                }
+              ], 
+              "name": "016 - Activit\u00e9s de soutien \u00e0 l'agriculture et traitement primaire des r\u00e9coltes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0170Z - Chasse, pi\u00e9geage et services annexes", 
+                  "value": 3
+                }
+              ], 
+              "name": "017 - Chasse, pi\u00e9geage et services annexes"
+            }
+          ], 
+          "name": "01 - Culture et production animale, chasse et services annexes"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "0210Z - Sylviculture et autres activit\u00e9s foresti\u00e8res", 
+                  "value": 23
+                }
+              ], 
+              "name": "021 - Sylviculture et autres activit\u00e9s foresti\u00e8res"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0220Z - Exploitation foresti\u00e8re", 
+                  "value": 126
+                }
+              ], 
+              "name": "022 - Exploitation foresti\u00e8re"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0230Z - R\u00e9colte de produits forestiers non ligneux poussant \u00e0 l'\u00e9tat sauvage", 
+                  "value": 3
+                }
+              ], 
+              "name": "023 - R\u00e9colte de produits forestiers non ligneux poussant \u00e0 l'\u00e9tat sauvage"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0240Z - Services de soutien \u00e0 l'exploitation foresti\u00e8re", 
+                  "value": 155
+                }
+              ], 
+              "name": "024 - Services de soutien \u00e0 l'exploitation foresti\u00e8re"
+            }
+          ], 
+          "name": "02 - Sylviculture et exploitation foresti\u00e8re"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "0311Z - P\u00eache en mer", 
+                  "value": 426
+                }, 
+                {
+                  "name": "0312Z - P\u00eache en eau douce", 
+                  "value": 23
+                }
+              ], 
+              "name": "031 - P\u00eache"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0321Z - Aquaculture en mer", 
+                  "value": 294
+                }, 
+                {
+                  "name": "0322Z - Aquaculture en eau douce", 
+                  "value": 52
+                }
+              ], 
+              "name": "032 - Aquaculture"
+            }
+          ], 
+          "name": "03 - P\u00eache et aquaculture"
+        }
+      ], 
+      "name": "A - Agriculture, sylviculture et p\u00eache"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "051 - Extraction de houille"
+            }, 
+            {
+              "children": [], 
+              "name": "052 - Extraction de lignite"
+            }
+          ], 
+          "name": "05 - Extraction de houille et de lignite"
+        }, 
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "061 - Extraction de p\u00e9trole brut"
+            }, 
+            {
+              "children": [], 
+              "name": "062 - Extraction de gaz naturel"
+            }
+          ], 
+          "name": "06 - Extraction d'hydrocarbures"
+        }, 
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "071 - Extraction de minerais de fer"
+            }, 
+            {
+              "children": [], 
+              "name": "072 - Extraction de minerais de m\u00e9taux non ferreux"
+            }
+          ], 
+          "name": "07 - Extraction de minerais m\u00e9talliques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "0811Z - Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise", 
+                  "value": 2
+                }, 
+                {
+                  "name": "0812Z - Exploitation de gravi\u00e8res et sabli\u00e8res, extraction d'argiles et de kaolin", 
+                  "value": 3
+                }
+              ], 
+              "name": "081 - Extraction de pierres, de sables et d'argiles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "0893Z - Production de sel", 
+                  "value": 5
+                }, 
+                {
+                  "name": "0899Z - Autres activit\u00e9s extractives n.c.a.", 
+                  "value": 1
+                }
+              ], 
+              "name": "089 - Activit\u00e9s extractives n.c.a."
+            }
+          ], 
+          "name": "08 - Autres industries extractives"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "0910Z - Activit\u00e9s de soutien \u00e0 l'extraction d'hydrocarbures", 
+                  "value": 1
+                }
+              ], 
+              "name": "091 - Activit\u00e9s de soutien \u00e0 l'extraction d'hydrocarbures"
+            }, 
+            {
+              "children": [], 
+              "name": "099 - Activit\u00e9s de soutien aux autres industries extractives"
+            }
+          ], 
+          "name": "09 - Services de soutien aux industries extractives"
+        }
+      ], 
+      "name": "B - Industries extractives"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1011Z - Transformation et conservation de la viande de boucherie", 
+                  "value": 26
+                }, 
+                {
+                  "name": "1012Z - Transformation et conservation de la viande de volaille", 
+                  "value": 8
+                }, 
+                {
+                  "name": "1013A - Pr\u00e9paration industrielle de produits \u00e0 base de viande", 
+                  "value": 32
+                }, 
+                {
+                  "name": "1013B - Charcuterie", 
+                  "value": 100
+                }
+              ], 
+              "name": "101 - Transformation et conservation de la viande et pr\u00e9paration de produits \u00e0 base de viande"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1020Z - Transformation et conservation de poisson, de crustac\u00e9s et de mollusques", 
+                  "value": 16
+                }
+              ], 
+              "name": "102 - Transformation et conservation de poisson, de crustac\u00e9s et de mollusques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1031Z - Transformation et conservation de pommes de terre", 
+                  "value": 18
+                }, 
+                {
+                  "name": "1032Z - Pr\u00e9paration de jus de fruits et l\u00e9gumes", 
+                  "value": 28
+                }, 
+                {
+                  "name": "1039A - Autre transformation et conservation de l\u00e9gumes", 
+                  "value": 19
+                }, 
+                {
+                  "name": "1039B - Transformation et conservation de fruits", 
+                  "value": 90
+                }
+              ], 
+              "name": "103 - Transformation et conservation de fruits et l\u00e9gumes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1041A - Fabrication d'huiles et graisses brutes", 
+                  "value": 2
+                }, 
+                {
+                  "name": "1041B - Fabrication d'huiles et graisses raffin\u00e9es", 
+                  "value": 10
+                }
+              ], 
+              "name": "104 - Fabrication d'huiles et graisses v\u00e9g\u00e9tales et animales"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1051A - Fabrication de lait liquide et de produits frais", 
+                  "value": 2
+                }, 
+                {
+                  "name": "1051C - Fabrication de fromage", 
+                  "value": 5
+                }, 
+                {
+                  "name": "1051D - Fabrication d'autres produits laitiers", 
+                  "value": 2
+                }, 
+                {
+                  "name": "1052Z - Fabrication de glaces et sorbets", 
+                  "value": 76
+                }
+              ], 
+              "name": "105 - Fabrication de produits laitiers"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1061A - Meunerie", 
+                  "value": 4
+                }
+              ], 
+              "name": "106 - Travail des grains ; fabrication de produits amylac\u00e9s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1071A - Fabrication industrielle de pain et de p\u00e2tisserie fra\u00eeche", 
+                  "value": 17
+                }, 
+                {
+                  "name": "1071B - Cuisson de produits de boulangerie", 
+                  "value": 183
+                }, 
+                {
+                  "name": "1071C - Boulangerie et boulangerie-p\u00e2tisserie", 
+                  "value": 329
+                }, 
+                {
+                  "name": "1071D - P\u00e2tisserie", 
+                  "value": 712
+                }, 
+                {
+                  "name": "1072Z - Fabrication de biscuits, biscottes et p\u00e2tisseries de conservation", 
+                  "value": 220
+                }, 
+                {
+                  "name": "1073Z - Fabrication de p\u00e2tes alimentaires", 
+                  "value": 26
+                }
+              ], 
+              "name": "107 - Fabrication de produits de boulangerie-p\u00e2tisserie et de p\u00e2tes alimentaires"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1081Z - Fabrication de sucre", 
+                  "value": 1
+                }, 
+                {
+                  "name": "1082Z - Fabrication de cacao, chocolat et de produits de confiserie", 
+                  "value": 153
+                }, 
+                {
+                  "name": "1083Z - Transformation du th\u00e9 et du caf\u00e9", 
+                  "value": 66
+                }, 
+                {
+                  "name": "1084Z - Fabrication de condiments et assaisonnements", 
+                  "value": 24
+                }, 
+                {
+                  "name": "1085Z - Fabrication de plats pr\u00e9par\u00e9s", 
+                  "value": 129
+                }, 
+                {
+                  "name": "1086Z - Fabrication d'aliments homog\u00e9n\u00e9is\u00e9s et di\u00e9t\u00e9tiques", 
+                  "value": 3
+                }, 
+                {
+                  "name": "1089Z - Fabrication d'autres produits alimentaires n.c.a.", 
+                  "value": 78
+                }
+              ], 
+              "name": "108 - Fabrication d'autres produits alimentaires"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1091Z - Fabrication d'aliments pour animaux de ferme", 
+                  "value": 2
+                }, 
+                {
+                  "name": "1092Z - Fabrication d'aliments pour animaux de compagnie", 
+                  "value": 4
+                }
+              ], 
+              "name": "109 - Fabrication d'aliments pour animaux"
+            }
+          ], 
+          "name": "10 - Industries alimentaires"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1101Z - Production de boissons alcooliques distill\u00e9es", 
+                  "value": 63
+                }, 
+                {
+                  "name": "1102A - Fabrication de vins effervescents", 
+                  "value": 5
+                }, 
+                {
+                  "name": "1102B - Vinification", 
+                  "value": 17
+                }, 
+                {
+                  "name": "1103Z - Fabrication de cidre et de vins de fruits", 
+                  "value": 11
+                }, 
+                {
+                  "name": "1104Z - Production d'autres boissons ferment\u00e9es non distill\u00e9es", 
+                  "value": 15
+                }, 
+                {
+                  "name": "1105Z - Fabrication de bi\u00e8re", 
+                  "value": 240
+                }, 
+                {
+                  "name": "1106Z - Fabrication de malt", 
+                  "value": 1
+                }, 
+                {
+                  "name": "1107B - Production de boissons rafra\u00eechissantes", 
+                  "value": 19
+                }
+              ], 
+              "name": "110 - Fabrication de boissons"
+            }
+          ], 
+          "name": "11 - Fabrication de boissons"
+        }, 
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "120 - Fabrication de produits \u00e0 base de tabac"
+            }
+          ], 
+          "name": "12 - Fabrication de produits \u00e0 base de tabac"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1310Z - Pr\u00e9paration de fibres textiles et filature", 
+                  "value": 15
+                }
+              ], 
+              "name": "131 - Pr\u00e9paration de fibres textiles et filature"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1320Z - Tissage", 
+                  "value": 23
+                }
+              ], 
+              "name": "132 - Tissage"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1330Z - Ennoblissement textile", 
+                  "value": 83
+                }
+              ], 
+              "name": "133 - Ennoblissement textile"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1391Z - Fabrication d'\u00e9toffes \u00e0 mailles", 
+                  "value": 6
+                }, 
+                {
+                  "name": "1392Z - Fabrication d'articles textiles, sauf habillement", 
+                  "value": 398
+                }, 
+                {
+                  "name": "1393Z - Fabrication de tapis et moquettes", 
+                  "value": 5
+                }, 
+                {
+                  "name": "1394Z - Fabrication de ficelles, cordes et filets", 
+                  "value": 7
+                }, 
+                {
+                  "name": "1396Z - Fabrication d'autres textiles techniques et industriels", 
+                  "value": 14
+                }, 
+                {
+                  "name": "1399Z - Fabrication d'autres textiles n.c.a.", 
+                  "value": 147
+                }
+              ], 
+              "name": "139 - Fabrication d'autres textiles"
+            }
+          ], 
+          "name": "13 - Fabrication de textiles"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1411Z - Fabrication de v\u00eatements en cuir", 
+                  "value": 17
+                }, 
+                {
+                  "name": "1412Z - Fabrication de v\u00eatements de travail", 
+                  "value": 3
+                }, 
+                {
+                  "name": "1413Z - Fabrication de v\u00eatements de dessus", 
+                  "value": 1238
+                }, 
+                {
+                  "name": "1414Z - Fabrication de v\u00eatements de dessous", 
+                  "value": 15
+                }, 
+                {
+                  "name": "1419Z - Fabrication d'autres v\u00eatements et accessoires", 
+                  "value": 427
+                }
+              ], 
+              "name": "141 - Fabrication de v\u00eatements, autres qu'en fourrure"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1420Z - Fabrication d'articles en fourrure", 
+                  "value": 10
+                }
+              ], 
+              "name": "142 - Fabrication d'articles en fourrure"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1439Z - Fabrication d'autres articles \u00e0 mailles", 
+                  "value": 27
+                }
+              ], 
+              "name": "143 - Fabrication d'articles \u00e0 mailles"
+            }
+          ], 
+          "name": "14 - Industrie de l'habillement"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1511Z - Appr\u00eat et tannage des cuirs ; pr\u00e9paration et teinture des fourrures", 
+                  "value": 9
+                }, 
+                {
+                  "name": "1512Z - Fabrication d'articles de voyage, de maroquinerie et de sellerie", 
+                  "value": 425
+                }
+              ], 
+              "name": "151 - Appr\u00eat et tannage des cuirs ; pr\u00e9paration et teinture des fourrures ; fabrication d'articles de voyage, de maroquinerie et de sellerie"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1520Z - Fabrication de chaussures", 
+                  "value": 34
+                }
+              ], 
+              "name": "152 - Fabrication de chaussures"
+            }
+          ], 
+          "name": "15 - Industrie du cuir et de la chaussure"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1610A - Sciage et rabotage du bois, hors impr\u00e9gnation", 
+                  "value": 59
+                }, 
+                {
+                  "name": "1610B - Impr\u00e9gnation du bois", 
+                  "value": 27
+                }
+              ], 
+              "name": "161 - Sciage et rabotage du bois"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1621Z - Fabrication de placage et de panneaux de bois", 
+                  "value": 3
+                }, 
+                {
+                  "name": "1622Z - Fabrication de parquets assembl\u00e9s", 
+                  "value": 2
+                }, 
+                {
+                  "name": "1623Z - Fabrication de charpentes et d'autres menuiseries", 
+                  "value": 188
+                }, 
+                {
+                  "name": "1624Z - Fabrication d'emballages en bois", 
+                  "value": 24
+                }, 
+                {
+                  "name": "1629Z - Fabrication d'objets divers en bois ; fabrication d'objets en li\u00e8ge, vannerie et sparterie", 
+                  "value": 440
+                }
+              ], 
+              "name": "162 - Fabrication d'articles en bois, li\u00e8ge, vannerie et sparterie"
+            }
+          ], 
+          "name": "16 - Travail du bois et fabrication d'articles en bois et en li\u00e8ge, \u00e0 l'exception des meubles ; fabrication d'articles en vannerie et sparterie"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1712Z - Fabrication de papier et de carton", 
+                  "value": 8
+                }
+              ], 
+              "name": "171 - Fabrication de p\u00e2te \u00e0 papier, de papier et de carton"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1721B - Fabrication de cartonnages", 
+                  "value": 12
+                }, 
+                {
+                  "name": "1721C - Fabrication d'emballages en papier", 
+                  "value": 2
+                }, 
+                {
+                  "name": "1722Z - Fabrication d'articles en papier \u00e0 usage sanitaire ou domestique", 
+                  "value": 1
+                }, 
+                {
+                  "name": "1723Z - Fabrication d'articles de papeterie", 
+                  "value": 29
+                }, 
+                {
+                  "name": "1729Z - Fabrication d'autres articles en papier ou en carton", 
+                  "value": 35
+                }
+              ], 
+              "name": "172 - Fabrication d'articles en papier ou en carton"
+            }
+          ], 
+          "name": "17 - Industrie du papier et du carton"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "1811Z - Imprimerie de journaux", 
+                  "value": 4
+                }, 
+                {
+                  "name": "1812Z - Autre imprimerie (labeur)", 
+                  "value": 421
+                }, 
+                {
+                  "name": "1813Z - Activit\u00e9s de pr\u00e9-presse", 
+                  "value": 1064
+                }, 
+                {
+                  "name": "1814Z - Reliure et activit\u00e9s connexes", 
+                  "value": 82
+                }
+              ], 
+              "name": "181 - Imprimerie et services annexes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "1820Z - Reproduction d'enregistrements", 
+                  "value": 32
+                }
+              ], 
+              "name": "182 - Reproduction d'enregistrements"
+            }
+          ], 
+          "name": "18 - Imprimerie et reproduction d'enregistrements"
+        }, 
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "191 - Cok\u00e9faction"
+            }, 
+            {
+              "children": [], 
+              "name": "192 - Raffinage du p\u00e9trole"
+            }
+          ], 
+          "name": "19 - Cok\u00e9faction et raffinage"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2011Z - Fabrication de gaz industriels", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2012Z - Fabrication de colorants et de pigments", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2013B - Fabrication d'autres produits chimiques inorganiques de base n.c.a.", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2014Z - Fabrication d'autres produits chimiques organiques de base", 
+                  "value": 7
+                }, 
+                {
+                  "name": "2015Z - Fabrication de produits azot\u00e9s et d'engrais", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2016Z - Fabrication de mati\u00e8res plastiques de base", 
+                  "value": 7
+                }
+              ], 
+              "name": "201 - Fabrication de produits chimiques de base, de produits azot\u00e9s et d'engrais, de mati\u00e8res plastiques de base et de caoutchouc synth\u00e9tique"
+            }, 
+            {
+              "children": [], 
+              "name": "202 - Fabrication de pesticides et d'autres produits agrochimiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2030Z - Fabrication de peintures, vernis, encres et mastics", 
+                  "value": 4
+                }
+              ], 
+              "name": "203 - Fabrication de peintures, vernis, encres et mastics"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2041Z - Fabrication de savons, d\u00e9tergents et produits d'entretien", 
+                  "value": 63
+                }, 
+                {
+                  "name": "2042Z - Fabrication de parfums et de produits pour la toilette", 
+                  "value": 100
+                }
+              ], 
+              "name": "204 - Fabrication de savons, de produits d'entretien et de parfums"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2053Z - Fabrication d'huiles essentielles", 
+                  "value": 5
+                }, 
+                {
+                  "name": "2059Z - Fabrication d'autres produits chimiques n.c.a.", 
+                  "value": 5
+                }
+              ], 
+              "name": "205 - Fabrication d'autres produits chimiques"
+            }, 
+            {
+              "children": [], 
+              "name": "206 - Fabrication de fibres artificielles ou synth\u00e9tiques"
+            }
+          ], 
+          "name": "20 - Industrie chimique"
+        }, 
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "211 - Fabrication de produits pharmaceutiques de base"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2120Z - Fabrication de pr\u00e9parations pharmaceutiques", 
+                  "value": 2
+                }
+              ], 
+              "name": "212 - Fabrication de pr\u00e9parations pharmaceutiques"
+            }
+          ], 
+          "name": "21 - Industrie pharmaceutique"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2211Z - Fabrication et rechapage de pneumatiques", 
+                  "value": 3
+                }, 
+                {
+                  "name": "2219Z - Fabrication d'autres articles en caoutchouc", 
+                  "value": 9
+                }
+              ], 
+              "name": "221 - Fabrication de produits en caoutchouc"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2221Z - Fabrication de plaques, feuilles, tubes et profil\u00e9s en mati\u00e8res plastiques", 
+                  "value": 7
+                }, 
+                {
+                  "name": "2222Z - Fabrication d'emballages en mati\u00e8res plastiques", 
+                  "value": 2
+                }, 
+                {
+                  "name": "2223Z - Fabrication d'\u00e9l\u00e9ments en mati\u00e8res plastiques pour la construction", 
+                  "value": 17
+                }, 
+                {
+                  "name": "2229A - Fabrication de pi\u00e8ces techniques \u00e0 base de mati\u00e8res plastiques", 
+                  "value": 33
+                }, 
+                {
+                  "name": "2229B - Fabrication de produits de consommation courante en mati\u00e8res plastiques", 
+                  "value": 35
+                }
+              ], 
+              "name": "222 - Fabrication de produits en plastique"
+            }
+          ], 
+          "name": "22 - Fabrication de produits en caoutchouc et en plastique"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2311Z - Fabrication de verre plat", 
+                  "value": 3
+                }, 
+                {
+                  "name": "2312Z - Fa\u00e7onnage et transformation du verre plat", 
+                  "value": 18
+                }, 
+                {
+                  "name": "2313Z - Fabrication de verre creux", 
+                  "value": 64
+                }, 
+                {
+                  "name": "2319Z - Fabrication et fa\u00e7onnage d'autres articles en verre, y compris verre technique", 
+                  "value": 100
+                }
+              ], 
+              "name": "231 - Fabrication de verre et d'articles en verre"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2320Z - Fabrication de produits r\u00e9fractaires", 
+                  "value": 4
+                }
+              ], 
+              "name": "232 - Fabrication de produits r\u00e9fractaires"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2331Z - Fabrication de carreaux en c\u00e9ramique", 
+                  "value": 13
+                }, 
+                {
+                  "name": "2332Z - Fabrication de briques, tuiles et produits de construction, en terre cuite", 
+                  "value": 4
+                }
+              ], 
+              "name": "233 - Fabrication de mat\u00e9riaux de construction en terre cuite"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2341Z - Fabrication d'articles c\u00e9ramiques \u00e0 usage domestique ou ornemental", 
+                  "value": 487
+                }, 
+                {
+                  "name": "2342Z - Fabrication d'appareils sanitaires en c\u00e9ramique", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2349Z - Fabrication d'autres produits c\u00e9ramiques", 
+                  "value": 26
+                }
+              ], 
+              "name": "234 - Fabrication d'autres produits en c\u00e9ramique et en porcelaine"
+            }, 
+            {
+              "children": [], 
+              "name": "235 - Fabrication de ciment, chaux et pl\u00e2tre"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2361Z - Fabrication d'\u00e9l\u00e9ments en b\u00e9ton pour la construction", 
+                  "value": 9
+                }, 
+                {
+                  "name": "2362Z - Fabrication d'\u00e9l\u00e9ments en pl\u00e2tre pour la construction", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2363Z - Fabrication de b\u00e9ton pr\u00eat \u00e0 l'emploi", 
+                  "value": 3
+                }, 
+                {
+                  "name": "2369Z - Fabrication d'autres ouvrages en b\u00e9ton, en ciment ou en pl\u00e2tre", 
+                  "value": 39
+                }
+              ], 
+              "name": "236 - Fabrication d'ouvrages en b\u00e9ton, en ciment ou en pl\u00e2tre"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2370Z - Taille, fa\u00e7onnage et finissage de pierres", 
+                  "value": 219
+                }
+              ], 
+              "name": "237 - Taille, fa\u00e7onnage et finissage de pierres"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2391Z - Fabrication de produits abrasifs", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2399Z - Fabrication d'autres produits min\u00e9raux non m\u00e9talliques n.c.a.", 
+                  "value": 8
+                }
+              ], 
+              "name": "239 - Fabrication de produits abrasifs et de produits min\u00e9raux non m\u00e9talliques n.c.a."
+            }
+          ], 
+          "name": "23 - Fabrication d'autres produits min\u00e9raux non m\u00e9talliques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2410Z - Sid\u00e9rurgie", 
+                  "value": 1
+                }
+              ], 
+              "name": "241 - Sid\u00e9rurgie"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2420Z - Fabrication de tubes, tuyaux, profil\u00e9s creux et accessoires correspondants en acier", 
+                  "value": 11
+                }
+              ], 
+              "name": "242 - Fabrication de tubes, tuyaux, profil\u00e9s creux et accessoires correspondants en acier"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2433Z - Profilage \u00e0 froid par formage ou pliage", 
+                  "value": 3
+                }
+              ], 
+              "name": "243 - Fabrication d'autres produits de premi\u00e8re transformation de l'acier"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2441Z - Production de m\u00e9taux pr\u00e9cieux", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2444Z - M\u00e9tallurgie du cuivre", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2445Z - M\u00e9tallurgie des autres m\u00e9taux non ferreux", 
+                  "value": 2
+                }
+              ], 
+              "name": "244 - Production de m\u00e9taux pr\u00e9cieux et d'autres m\u00e9taux non ferreux"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2453Z - Fonderie de m\u00e9taux l\u00e9gers", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2454Z - Fonderie d'autres m\u00e9taux non ferreux", 
+                  "value": 13
+                }
+              ], 
+              "name": "245 - Fonderie"
+            }
+          ], 
+          "name": "24 - M\u00e9tallurgie"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2511Z - Fabrication de structures m\u00e9talliques et de parties de structures", 
+                  "value": 142
+                }, 
+                {
+                  "name": "2512Z - Fabrication de portes et fen\u00eatres en m\u00e9tal", 
+                  "value": 92
+                }
+              ], 
+              "name": "251 - Fabrication d'\u00e9l\u00e9ments en m\u00e9tal pour la construction"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2521Z - Fabrication de radiateurs et de chaudi\u00e8res pour le chauffage central", 
+                  "value": 1
+                }
+              ], 
+              "name": "252 - Fabrication de r\u00e9servoirs, citernes et conteneurs m\u00e9talliques"
+            }, 
+            {
+              "children": [], 
+              "name": "253 - Fabrication de g\u00e9n\u00e9rateurs de vapeur, \u00e0 l'exception des chaudi\u00e8res pour le chauffage central"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2540Z - Fabrication d'armes et de munitions", 
+                  "value": 14
+                }
+              ], 
+              "name": "254 - Fabrication d'armes et de munitions"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2550A - Forge, estampage, matri\u00e7age ; m\u00e9tallurgie des poudres", 
+                  "value": 107
+                }, 
+                {
+                  "name": "2550B - D\u00e9coupage, emboutissage", 
+                  "value": 14
+                }
+              ], 
+              "name": "255 - Forge, emboutissage, estampage ; m\u00e9tallurgie des poudres"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2561Z - Traitement et rev\u00eatement des m\u00e9taux", 
+                  "value": 83
+                }, 
+                {
+                  "name": "2562A - D\u00e9colletage", 
+                  "value": 4
+                }, 
+                {
+                  "name": "2562B - M\u00e9canique industrielle", 
+                  "value": 212
+                }
+              ], 
+              "name": "256 - Traitement et rev\u00eatement des m\u00e9taux ; usinage"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2571Z - Fabrication de coutellerie", 
+                  "value": 60
+                }, 
+                {
+                  "name": "2572Z - Fabrication de serrures et de ferrures", 
+                  "value": 27
+                }, 
+                {
+                  "name": "2573A - Fabrication de moules et mod\u00e8les", 
+                  "value": 24
+                }, 
+                {
+                  "name": "2573B - Fabrication d'autres outillages", 
+                  "value": 17
+                }
+              ], 
+              "name": "257 - Fabrication de coutellerie, d'outillage et de quincaillerie"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2591Z - Fabrication de f\u00fbts et emballages m\u00e9talliques similaires", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2593Z - Fabrication d'articles en fils m\u00e9talliques, de cha\u00eenes et de ressorts", 
+                  "value": 7
+                }, 
+                {
+                  "name": "2599A - Fabrication d'articles m\u00e9talliques m\u00e9nagers", 
+                  "value": 9
+                }, 
+                {
+                  "name": "2599B - Fabrication d'autres articles m\u00e9talliques", 
+                  "value": 82
+                }
+              ], 
+              "name": "259 - Fabrication d'autres ouvrages en m\u00e9taux"
+            }
+          ], 
+          "name": "25 - Fabrication de produits m\u00e9talliques, \u00e0 l'exception des machines et des \u00e9quipements"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2611Z - Fabrication de composants \u00e9lectroniques", 
+                  "value": 8
+                }, 
+                {
+                  "name": "2612Z - Fabrication de cartes \u00e9lectroniques assembl\u00e9es", 
+                  "value": 9
+                }
+              ], 
+              "name": "261 - Fabrication de composants et cartes \u00e9lectroniques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2620Z - Fabrication d'ordinateurs et d'\u00e9quipements p\u00e9riph\u00e9riques", 
+                  "value": 6
+                }
+              ], 
+              "name": "262 - Fabrication d'ordinateurs et d'\u00e9quipements p\u00e9riph\u00e9riques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2630Z - Fabrication d'\u00e9quipements de communication", 
+                  "value": 15
+                }
+              ], 
+              "name": "263 - Fabrication d'\u00e9quipements de communication"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2640Z - Fabrication de produits \u00e9lectroniques grand public", 
+                  "value": 24
+                }
+              ], 
+              "name": "264 - Fabrication de produits \u00e9lectroniques grand public"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2651A - Fabrication d'\u00e9quipements d'aide \u00e0 la navigation", 
+                  "value": 4
+                }, 
+                {
+                  "name": "2651B - Fabrication d'instrumentation scientifique et technique", 
+                  "value": 12
+                }, 
+                {
+                  "name": "2652Z - Horlogerie", 
+                  "value": 24
+                }
+              ], 
+              "name": "265 - Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation ; horlogerie"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2660Z - Fabrication d'\u00e9quipements d'irradiation m\u00e9dicale, d'\u00e9quipements \u00e9lectrom\u00e9dicaux et \u00e9lectroth\u00e9rapeutiques", 
+                  "value": 2
+                }
+              ], 
+              "name": "266 - Fabrication d'\u00e9quipements d'irradiation m\u00e9dicale, d'\u00e9quipements \u00e9lectrom\u00e9dicaux et \u00e9lectroth\u00e9rapeutiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2670Z - Fabrication de mat\u00e9riels optique et photographique", 
+                  "value": 10
+                }
+              ], 
+              "name": "267 - Fabrication de mat\u00e9riels optique et photographique"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2680Z - Fabrication de supports magn\u00e9tiques et optiques", 
+                  "value": 1
+                }
+              ], 
+              "name": "268 - Fabrication de supports magn\u00e9tiques et optiques"
+            }
+          ], 
+          "name": "26 - Fabrication de produits informatiques, \u00e9lectroniques et optiques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2712Z - Fabrication de mat\u00e9riel de distribution et de commande \u00e9lectrique", 
+                  "value": 5
+                }
+              ], 
+              "name": "271 - Fabrication de moteurs, g\u00e9n\u00e9ratrices et transformateurs \u00e9lectriques et de mat\u00e9riel de distribution et de commande \u00e9lectrique"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2720Z - Fabrication de piles et d'accumulateurs \u00e9lectriques", 
+                  "value": 1
+                }
+              ], 
+              "name": "272 - Fabrication de piles et d'accumulateurs \u00e9lectriques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2731Z - Fabrication de c\u00e2bles de fibres optiques", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2732Z - Fabrication d'autres fils et c\u00e2bles \u00e9lectroniques ou \u00e9lectriques", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2733Z - Fabrication de mat\u00e9riel d'installation \u00e9lectrique", 
+                  "value": 4
+                }
+              ], 
+              "name": "273 - Fabrication de fils et c\u00e2bles et de mat\u00e9riel d'installation \u00e9lectrique"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2740Z - Fabrication d'appareils d'\u00e9clairage \u00e9lectrique", 
+                  "value": 90
+                }
+              ], 
+              "name": "274 - Fabrication d'appareils d'\u00e9clairage \u00e9lectrique"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2751Z - Fabrication d'appareils \u00e9lectrom\u00e9nagers", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2752Z - Fabrication d'appareils m\u00e9nagers non \u00e9lectriques", 
+                  "value": 2
+                }
+              ], 
+              "name": "275 - Fabrication d'appareils m\u00e9nagers"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2790Z - Fabrication d'autres mat\u00e9riels \u00e9lectriques", 
+                  "value": 8
+                }
+              ], 
+              "name": "279 - Fabrication d'autres mat\u00e9riels \u00e9lectriques"
+            }
+          ], 
+          "name": "27 - Fabrication d'\u00e9quipements \u00e9lectriques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2811Z - Fabrication de moteurs et turbines, \u00e0 l'exception des moteurs d'avions et de v\u00e9hicules", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2812Z - Fabrication d'\u00e9quipements hydrauliques et pneumatiques", 
+                  "value": 8
+                }, 
+                {
+                  "name": "2813Z - Fabrication d'autres pompes et compresseurs", 
+                  "value": 2
+                }
+              ], 
+              "name": "281 - Fabrication de machines d'usage g\u00e9n\u00e9ral"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2821Z - Fabrication de fours et br\u00fbleurs", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2822Z - Fabrication de mat\u00e9riel de levage et de manutention", 
+                  "value": 10
+                }, 
+                {
+                  "name": "2825Z - Fabrication d'\u00e9quipements a\u00e9rauliques et frigorifiques industriels", 
+                  "value": 31
+                }, 
+                {
+                  "name": "2829A - Fabrication d'\u00e9quipements d'emballage, de conditionnement et de pesage", 
+                  "value": 4
+                }, 
+                {
+                  "name": "2829B - Fabrication d'autres machines d'usage g\u00e9n\u00e9ral", 
+                  "value": 16
+                }
+              ], 
+              "name": "282 - Fabrication d'autres machines d'usage g\u00e9n\u00e9ral"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2830Z - Fabrication de machines agricoles et foresti\u00e8res", 
+                  "value": 10
+                }
+              ], 
+              "name": "283 - Fabrication de machines agricoles et foresti\u00e8res"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2841Z - Fabrication de machines-outils pour le travail des m\u00e9taux", 
+                  "value": 6
+                }, 
+                {
+                  "name": "2849Z - Fabrication d'autres machines-outils", 
+                  "value": 3
+                }
+              ], 
+              "name": "284 - Fabrication de machines de formage des m\u00e9taux et de machines-outils"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2891Z - Fabrication de machines pour la m\u00e9tallurgie", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2892Z - Fabrication de machines pour l'extraction ou la construction", 
+                  "value": 2
+                }, 
+                {
+                  "name": "2893Z - Fabrication de machines pour l'industrie agro-alimentaire", 
+                  "value": 16
+                }, 
+                {
+                  "name": "2894Z - Fabrication de machines pour les industries textiles", 
+                  "value": 6
+                }, 
+                {
+                  "name": "2896Z - Fabrication de machines pour le travail du caoutchouc ou des plastiques", 
+                  "value": 1
+                }, 
+                {
+                  "name": "2899A - Fabrication de machines d'imprimerie", 
+                  "value": 3
+                }, 
+                {
+                  "name": "2899B - Fabrication d'autres machines sp\u00e9cialis\u00e9es", 
+                  "value": 26
+                }
+              ], 
+              "name": "289 - Fabrication d'autres machines d'usage sp\u00e9cifique"
+            }
+          ], 
+          "name": "28 - Fabrication de machines et \u00e9quipements n.c.a."
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "2910Z - Construction de v\u00e9hicules automobiles", 
+                  "value": 8
+                }
+              ], 
+              "name": "291 - Construction de v\u00e9hicules automobiles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2920Z - Fabrication de carrosseries et remorques", 
+                  "value": 49
+                }
+              ], 
+              "name": "292 - Fabrication de carrosseries et remorques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "2931Z - Fabrication d'\u00e9quipements \u00e9lectriques et \u00e9lectroniques automobiles", 
+                  "value": 5
+                }, 
+                {
+                  "name": "2932Z - Fabrication d'autres \u00e9quipements automobiles", 
+                  "value": 24
+                }
+              ], 
+              "name": "293 - Fabrication d'\u00e9quipements automobiles"
+            }
+          ], 
+          "name": "29 - Industrie automobile"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3011Z - Construction de navires et de structures flottantes", 
+                  "value": 7
+                }, 
+                {
+                  "name": "3012Z - Construction de bateaux de plaisance", 
+                  "value": 13
+                }
+              ], 
+              "name": "301 - Construction navale"
+            }, 
+            {
+              "children": [], 
+              "name": "302 - Construction de locomotives et d'autre mat\u00e9riel ferroviaire roulant"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3030Z - Construction a\u00e9ronautique et spatiale", 
+                  "value": 8
+                }
+              ], 
+              "name": "303 - Construction a\u00e9ronautique et spatiale"
+            }, 
+            {
+              "children": [], 
+              "name": "304 - Construction de v\u00e9hicules militaires de combat"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3091Z - Fabrication de motocycles", 
+                  "value": 5
+                }, 
+                {
+                  "name": "3092Z - Fabrication de bicyclettes et de v\u00e9hicules pour invalides", 
+                  "value": 17
+                }, 
+                {
+                  "name": "3099Z - Fabrication d'autres \u00e9quipements de transport n.c.a.", 
+                  "value": 3
+                }
+              ], 
+              "name": "309 - Fabrication de mat\u00e9riels de transport n.c.a."
+            }
+          ], 
+          "name": "30 - Fabrication d'autres mat\u00e9riels de transport"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3101Z - Fabrication de meubles de bureau et de magasin", 
+                  "value": 37
+                }, 
+                {
+                  "name": "3102Z - Fabrication de meubles de cuisine", 
+                  "value": 72
+                }, 
+                {
+                  "name": "3103Z - Fabrication de matelas", 
+                  "value": 14
+                }, 
+                {
+                  "name": "3109A - Fabrication de si\u00e8ges d'ameublement d'int\u00e9rieur", 
+                  "value": 86
+                }, 
+                {
+                  "name": "3109B - Fabrication d'autres meubles et industries connexes de l'ameublement", 
+                  "value": 1517
+                }
+              ], 
+              "name": "310 - Fabrication de meubles"
+            }
+          ], 
+          "name": "31 - Fabrication de meubles"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3212Z - Fabrication d'articles de joaillerie et bijouterie", 
+                  "value": 541
+                }, 
+                {
+                  "name": "3213Z - Fabrication d'articles de bijouterie fantaisie et articles similaires", 
+                  "value": 1046
+                }
+              ], 
+              "name": "321 - Fabrication d'articles de joaillerie, bijouterie et articles similaires"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3220Z - Fabrication d'instruments de musique", 
+                  "value": 203
+                }
+              ], 
+              "name": "322 - Fabrication d'instruments de musique"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3230Z - Fabrication d'articles de sport", 
+                  "value": 71
+                }
+              ], 
+              "name": "323 - Fabrication d'articles de sport"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3240Z - Fabrication de jeux et jouets", 
+                  "value": 69
+                }
+              ], 
+              "name": "324 - Fabrication de jeux et jouets"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3250A - Fabrication de mat\u00e9riel m\u00e9dico-chirurgical et dentaire", 
+                  "value": 806
+                }, 
+                {
+                  "name": "3250B - Fabrication de lunettes", 
+                  "value": 35
+                }
+              ], 
+              "name": "325 - Fabrication d'instruments et de fournitures \u00e0 usage m\u00e9dical et dentaire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3291Z - Fabrication d'articles de brosserie", 
+                  "value": 2
+                }, 
+                {
+                  "name": "3299Z - Autres activit\u00e9s manufacturi\u00e8res n.c.a.", 
+                  "value": 486
+                }
+              ], 
+              "name": "329 - Activit\u00e9s manufacturi\u00e8res n.c.a."
+            }
+          ], 
+          "name": "32 - Autres industries manufacturi\u00e8res"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3311Z - R\u00e9paration d'ouvrages en m\u00e9taux", 
+                  "value": 53
+                }, 
+                {
+                  "name": "3312Z - R\u00e9paration de machines et \u00e9quipements m\u00e9caniques", 
+                  "value": 509
+                }, 
+                {
+                  "name": "3313Z - R\u00e9paration de mat\u00e9riels \u00e9lectroniques et optiques", 
+                  "value": 45
+                }, 
+                {
+                  "name": "3314Z - R\u00e9paration d'\u00e9quipements \u00e9lectriques", 
+                  "value": 63
+                }, 
+                {
+                  "name": "3315Z - R\u00e9paration et maintenance navale", 
+                  "value": 250
+                }, 
+                {
+                  "name": "3316Z - R\u00e9paration et maintenance d'a\u00e9ronefs et d'engins spatiaux", 
+                  "value": 16
+                }, 
+                {
+                  "name": "3317Z - R\u00e9paration et maintenance d'autres \u00e9quipements de transport", 
+                  "value": 4
+                }, 
+                {
+                  "name": "3319Z - R\u00e9paration d'autres \u00e9quipements", 
+                  "value": 51
+                }
+              ], 
+              "name": "331 - R\u00e9paration d'ouvrages en m\u00e9taux, de machines et d'\u00e9quipements"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3320A - Installation de structures m\u00e9talliques, chaudronn\u00e9es et de tuyauterie", 
+                  "value": 274
+                }, 
+                {
+                  "name": "3320B - Installation de machines et \u00e9quipements m\u00e9caniques", 
+                  "value": 121
+                }, 
+                {
+                  "name": "3320C - Conception d'ensemble et assemblage sur site industriel d'\u00e9quipements de contr\u00f4le des processus industriels", 
+                  "value": 44
+                }, 
+                {
+                  "name": "3320D - Installation d'\u00e9quipements \u00e9lectriques, de mat\u00e9riels \u00e9lectroniques et optiques ou d'autres mat\u00e9riels", 
+                  "value": 101
+                }
+              ], 
+              "name": "332 - Installation de machines et d'\u00e9quipements industriels"
+            }
+          ], 
+          "name": "33 - R\u00e9paration et installation de machines et d'\u00e9quipements"
+        }
+      ], 
+      "name": "C - Industrie manufacturi\u00e8re"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3511Z - Production d'\u00e9lectricit\u00e9", 
+                  "value": 20
+                }, 
+                {
+                  "name": "3514Z - Commerce d'\u00e9lectricit\u00e9", 
+                  "value": 20
+                }
+              ], 
+              "name": "351 - Production, transport et distribution d'\u00e9lectricit\u00e9"
+            }, 
+            {
+              "children": [], 
+              "name": "352 - Production et distribution de combustibles gazeux"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3530Z - Production et distribution de vapeur et d'air conditionn\u00e9", 
+                  "value": 2
+                }
+              ], 
+              "name": "353 - Production et distribution de vapeur et d'air conditionn\u00e9"
+            }
+          ], 
+          "name": "35 - Production et distribution d'\u00e9lectricit\u00e9, de gaz, de vapeur et d'air conditionn\u00e9"
+        }
+      ], 
+      "name": "D - Production et distribution d'\u00e9lectricit\u00e9, de gaz, de vapeur et d'air conditionn\u00e9"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3600Z - Captage, traitement et distribution d'eau", 
+                  "value": 5
+                }
+              ], 
+              "name": "360 - Captage, traitement et distribution d'eau"
+            }
+          ], 
+          "name": "36 - Captage, traitement et distribution d'eau"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3700Z - Collecte et traitement des eaux us\u00e9es", 
+                  "value": 29
+                }
+              ], 
+              "name": "370 - Collecte et traitement des eaux us\u00e9es"
+            }
+          ], 
+          "name": "37 - Collecte et traitement des eaux us\u00e9es"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3811Z - Collecte des d\u00e9chets non dangereux", 
+                  "value": 62
+                }, 
+                {
+                  "name": "3812Z - Collecte des d\u00e9chets dangereux", 
+                  "value": 5
+                }
+              ], 
+              "name": "381 - Collecte des d\u00e9chets"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3821Z - Traitement et \u00e9limination des d\u00e9chets non dangereux", 
+                  "value": 4
+                }, 
+                {
+                  "name": "3822Z - Traitement et \u00e9limination des d\u00e9chets dangereux", 
+                  "value": 3
+                }
+              ], 
+              "name": "382 - Traitement et \u00e9limination des d\u00e9chets"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "3831Z - D\u00e9mant\u00e8lement d'\u00e9paves", 
+                  "value": 42
+                }, 
+                {
+                  "name": "3832Z - R\u00e9cup\u00e9ration de d\u00e9chets tri\u00e9s", 
+                  "value": 366
+                }
+              ], 
+              "name": "383 - R\u00e9cup\u00e9ration"
+            }
+          ], 
+          "name": "38 - Collecte, traitement et \u00e9limination des d\u00e9chets ; r\u00e9cup\u00e9ration"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "3900Z - D\u00e9pollution et autres services de gestion des d\u00e9chets", 
+                  "value": 11
+                }
+              ], 
+              "name": "390 - D\u00e9pollution et autres services de gestion des d\u00e9chets"
+            }
+          ], 
+          "name": "39 - D\u00e9pollution et autres services de gestion des d\u00e9chets"
+        }
+      ], 
+      "name": "E - Production et distribution d'eau ; assainissement, gestion des d\u00e9chets et d\u00e9pollution"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "4110A - Promotion immobili\u00e8re de logements", 
+                  "value": 77
+                }, 
+                {
+                  "name": "4110C - Promotion immobili\u00e8re d'autres b\u00e2timents", 
+                  "value": 8
+                }, 
+                {
+                  "name": "4110D - Supports juridiques de programmes", 
+                  "value": 3
+                }
+              ], 
+              "name": "411 - Promotion immobili\u00e8re"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4120A - Construction de maisons individuelles", 
+                  "value": 814
+                }, 
+                {
+                  "name": "4120B - Construction d'autres b\u00e2timents", 
+                  "value": 442
+                }
+              ], 
+              "name": "412 - Construction de b\u00e2timents r\u00e9sidentiels et non r\u00e9sidentiels"
+            }
+          ], 
+          "name": "41 - Construction de b\u00e2timents"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "4211Z - Construction de routes et autoroutes", 
+                  "value": 51
+                }, 
+                {
+                  "name": "4212Z - Construction de voies ferr\u00e9es de surface et souterraines", 
+                  "value": 3
+                }, 
+                {
+                  "name": "4213A - Construction d'ouvrages d'art", 
+                  "value": 2
+                }
+              ], 
+              "name": "421 - Construction de routes et de voies ferr\u00e9es"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4221Z - Construction de r\u00e9seaux pour fluides", 
+                  "value": 25
+                }, 
+                {
+                  "name": "4222Z - Construction de r\u00e9seaux \u00e9lectriques et de t\u00e9l\u00e9communications", 
+                  "value": 27
+                }
+              ], 
+              "name": "422 - Construction de r\u00e9seaux et de lignes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4291Z - Construction d'ouvrages maritimes et fluviaux", 
+                  "value": 9
+                }, 
+                {
+                  "name": "4299Z - Construction d'autres ouvrages de g\u00e9nie civil n.c.a.", 
+                  "value": 28
+                }
+              ], 
+              "name": "429 - Construction d'autres ouvrages de g\u00e9nie civil"
+            }
+          ], 
+          "name": "42 - G\u00e9nie civil"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "4311Z - Travaux de d\u00e9molition", 
+                  "value": 49
+                }, 
+                {
+                  "name": "4312A - Travaux de terrassement courants et travaux pr\u00e9paratoires", 
+                  "value": 1289
+                }, 
+                {
+                  "name": "4312B - Travaux de terrassement sp\u00e9cialis\u00e9s ou de grande masse", 
+                  "value": 76
+                }, 
+                {
+                  "name": "4313Z - Forages et sondages", 
+                  "value": 18
+                }
+              ], 
+              "name": "431 - D\u00e9molition et pr\u00e9paration des sites"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4321A - Travaux d'installation \u00e9lectrique dans tous locaux", 
+                  "value": 6364
+                }, 
+                {
+                  "name": "4321B - Travaux d'installation \u00e9lectrique sur la voie publique", 
+                  "value": 14
+                }, 
+                {
+                  "name": "4322A - Travaux d'installation d'eau et de gaz en tous locaux", 
+                  "value": 3856
+                }, 
+                {
+                  "name": "4322B - Travaux d'installation d'\u00e9quipements thermiques et de climatisation", 
+                  "value": 1718
+                }, 
+                {
+                  "name": "4329A - Travaux d'isolation", 
+                  "value": 337
+                }, 
+                {
+                  "name": "4329B - Autres travaux d'installation n.c.a.", 
+                  "value": 283
+                }
+              ], 
+              "name": "432 - Travaux d'installation \u00e9lectrique, plomberie et autres travaux d'installation"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4331Z - Travaux de pl\u00e2trerie", 
+                  "value": 2790
+                }, 
+                {
+                  "name": "4332A - Travaux de menuiserie bois et PVC", 
+                  "value": 5508
+                }, 
+                {
+                  "name": "4332B - Travaux de menuiserie m\u00e9tallique et serrurerie", 
+                  "value": 1279
+                }, 
+                {
+                  "name": "4332C - Agencement de lieux de vente", 
+                  "value": 311
+                }, 
+                {
+                  "name": "4333Z - Travaux de rev\u00eatement des sols et des murs", 
+                  "value": 2418
+                }, 
+                {
+                  "name": "4334Z - Travaux de peinture et vitrerie", 
+                  "value": 5524
+                }, 
+                {
+                  "name": "4339Z - Autres travaux de finition", 
+                  "value": 1233
+                }
+              ], 
+              "name": "433 - Travaux de finition"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4391A - Travaux de charpente", 
+                  "value": 823
+                }, 
+                {
+                  "name": "4391B - Travaux de couverture par \u00e9l\u00e9ments", 
+                  "value": 1149
+                }, 
+                {
+                  "name": "4399A - Travaux d'\u00e9tanch\u00e9ification", 
+                  "value": 248
+                }, 
+                {
+                  "name": "4399B - Travaux de montage de structures m\u00e9talliques", 
+                  "value": 106
+                }, 
+                {
+                  "name": "4399C - Travaux de ma\u00e7onnerie g\u00e9n\u00e9rale et gros \u0153uvre de b\u00e2timent", 
+                  "value": 5751
+                }, 
+                {
+                  "name": "4399D - Autres travaux sp\u00e9cialis\u00e9s de construction", 
+                  "value": 525
+                }, 
+                {
+                  "name": "4399E - Location avec op\u00e9rateur de mat\u00e9riel de construction", 
+                  "value": 58
+                }
+              ], 
+              "name": "439 - Autres travaux de construction sp\u00e9cialis\u00e9s"
+            }
+          ], 
+          "name": "43 - Travaux de construction sp\u00e9cialis\u00e9s"
+        }
+      ], 
+      "name": "F - Construction"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "4511Z - Commerce de voitures et de v\u00e9hicules automobiles l\u00e9gers", 
+                  "value": 2870
+                }, 
+                {
+                  "name": "4519Z - Commerce d'autres v\u00e9hicules automobiles", 
+                  "value": 61
+                }
+              ], 
+              "name": "451 - Commerce de v\u00e9hicules automobiles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4520A - Entretien et r\u00e9paration de v\u00e9hicules automobiles l\u00e9gers", 
+                  "value": 4680
+                }, 
+                {
+                  "name": "4520B - Entretien et r\u00e9paration d'autres v\u00e9hicules automobiles", 
+                  "value": 140
+                }
+              ], 
+              "name": "452 - Entretien et r\u00e9paration de v\u00e9hicules automobiles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4531Z - Commerce de gros d'\u00e9quipements automobiles", 
+                  "value": 141
+                }, 
+                {
+                  "name": "4532Z - Commerce de d\u00e9tail d'\u00e9quipements automobiles", 
+                  "value": 502
+                }
+              ], 
+              "name": "453 - Commerce d'\u00e9quipements automobiles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4540Z - Commerce et r\u00e9paration de motocycles", 
+                  "value": 648
+                }
+              ], 
+              "name": "454 - Commerce et r\u00e9paration de motocycles"
+            }
+          ], 
+          "name": "45 - Commerce et r\u00e9paration d'automobiles et de motocycles"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "4611Z - Interm\u00e9diaires du commerce en mati\u00e8res premi\u00e8res agricoles, animaux vivants, mati\u00e8res premi\u00e8res textiles et produits semi-finis", 
+                  "value": 37
+                }, 
+                {
+                  "name": "4612B - Autres interm\u00e9diaires du commerce en combustibles, m\u00e9taux, min\u00e9raux et produits chimiques", 
+                  "value": 13
+                }, 
+                {
+                  "name": "4613Z - Interm\u00e9diaires du commerce en bois et mat\u00e9riaux de construction", 
+                  "value": 94
+                }, 
+                {
+                  "name": "4614Z - Interm\u00e9diaires du commerce en machines, \u00e9quipements industriels, navires et avions", 
+                  "value": 42
+                }, 
+                {
+                  "name": "4615Z - Interm\u00e9diaires du commerce en meubles, articles de m\u00e9nage et quincaillerie", 
+                  "value": 72
+                }, 
+                {
+                  "name": "4616Z - Interm\u00e9diaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir", 
+                  "value": 111
+                }, 
+                {
+                  "name": "4617A - Centrales d'achat alimentaires", 
+                  "value": 10
+                }, 
+                {
+                  "name": "4617B - Autres interm\u00e9diaires du commerce en denr\u00e9es, boissons et tabac", 
+                  "value": 179
+                }, 
+                {
+                  "name": "4618Z - Interm\u00e9diaires sp\u00e9cialis\u00e9s dans le commerce d'autres produits sp\u00e9cifiques", 
+                  "value": 487
+                }, 
+                {
+                  "name": "4619A - Centrales d'achat non alimentaires", 
+                  "value": 12
+                }, 
+                {
+                  "name": "4619B - Autres interm\u00e9diaires du commerce en produits divers", 
+                  "value": 6371
+                }
+              ], 
+              "name": "461 - Interm\u00e9diaires du commerce de gros"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4621Z - Commerce de gros (commerce interentreprises) de c\u00e9r\u00e9ales, de tabac non manufactur\u00e9, de semences et d'aliments pour le b\u00e9tail", 
+                  "value": 13
+                }, 
+                {
+                  "name": "4622Z - Commerce de gros (commerce interentreprises) de fleurs et plantes", 
+                  "value": 84
+                }, 
+                {
+                  "name": "4623Z - Commerce de gros (commerce interentreprises) d'animaux vivants", 
+                  "value": 41
+                }, 
+                {
+                  "name": "4624Z - Commerce de gros (commerce interentreprises) de cuirs et peaux", 
+                  "value": 4
+                }
+              ], 
+              "name": "462 - Commerce de gros de produits agricoles bruts et d'animaux vivants"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4631Z - Commerce de gros (commerce interentreprises) de fruits et l\u00e9gumes", 
+                  "value": 39
+                }, 
+                {
+                  "name": "4632A - Commerce de gros (commerce interentreprises) de viandes de boucherie", 
+                  "value": 11
+                }, 
+                {
+                  "name": "4632B - Commerce de gros (commerce interentreprises) de produits \u00e0 base de viande", 
+                  "value": 2
+                }, 
+                {
+                  "name": "4632C - Commerce de gros (commerce interentreprises) de volailles et gibier", 
+                  "value": 2
+                }, 
+                {
+                  "name": "4633Z - Commerce de gros (commerce interentreprises) de produits laitiers, \u0153ufs, huiles et mati\u00e8res grasses comestibles", 
+                  "value": 10
+                }, 
+                {
+                  "name": "4634Z - Commerce de gros (commerce interentreprises) de boissons", 
+                  "value": 484
+                }, 
+                {
+                  "name": "4635Z - Commerce de gros (commerce interentreprises) de produits \u00e0 base de tabac", 
+                  "value": 1
+                }, 
+                {
+                  "name": "4636Z - Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie", 
+                  "value": 16
+                }, 
+                {
+                  "name": "4637Z - Commerce de gros (commerce interentreprises) de caf\u00e9, th\u00e9, cacao et \u00e9pices", 
+                  "value": 21
+                }, 
+                {
+                  "name": "4638A - Commerce de gros (commerce interentreprises) de poissons, crustac\u00e9s et mollusques", 
+                  "value": 30
+                }, 
+                {
+                  "name": "4638B - Commerce de gros (commerce interentreprises) alimentaire sp\u00e9cialis\u00e9 divers", 
+                  "value": 81
+                }, 
+                {
+                  "name": "4639A - Commerce de gros (commerce interentreprises) de produits surgel\u00e9s", 
+                  "value": 6
+                }, 
+                {
+                  "name": "4639B - Commerce de gros (commerce interentreprises) alimentaire non sp\u00e9cialis\u00e9", 
+                  "value": 131
+                }
+              ], 
+              "name": "463 - Commerce de gros de produits alimentaires, de boissons et de tabac"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4641Z - Commerce de gros (commerce interentreprises) de textiles", 
+                  "value": 111
+                }, 
+                {
+                  "name": "4642Z - Commerce de gros (commerce interentreprises) d'habillement et de chaussures", 
+                  "value": 421
+                }, 
+                {
+                  "name": "4643Z - Commerce de gros (commerce interentreprises) d'appareils \u00e9lectrom\u00e9nagers", 
+                  "value": 63
+                }, 
+                {
+                  "name": "4644Z - Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien", 
+                  "value": 33
+                }, 
+                {
+                  "name": "4645Z - Commerce de gros (commerce interentreprises) de parfumerie et de produits de beaut\u00e9", 
+                  "value": 188
+                }, 
+                {
+                  "name": "4646Z - Commerce de gros (commerce interentreprises) de produits pharmaceutiques", 
+                  "value": 88
+                }, 
+                {
+                  "name": "4647Z - Commerce de gros (commerce interentreprises) de meubles, de tapis et d'appareils d'\u00e9clairage", 
+                  "value": 86
+                }, 
+                {
+                  "name": "4648Z - Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie", 
+                  "value": 45
+                }, 
+                {
+                  "name": "4649Z - Commerce de gros (commerce interentreprises) d'autres biens domestiques", 
+                  "value": 650
+                }
+              ], 
+              "name": "464 - Commerce de gros de biens domestiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4651Z - Commerce de gros (commerce interentreprises) d'ordinateurs, d'\u00e9quipements informatiques p\u00e9riph\u00e9riques et de logiciels", 
+                  "value": 145
+                }, 
+                {
+                  "name": "4652Z - Commerce de gros (commerce interentreprises) de composants et d'\u00e9quipements \u00e9lectroniques et de t\u00e9l\u00e9communication", 
+                  "value": 109
+                }
+              ], 
+              "name": "465 - Commerce de gros d'\u00e9quipements de l'information et de la communication"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4661Z - Commerce de gros (commerce interentreprises) de mat\u00e9riel agricole", 
+                  "value": 59
+                }, 
+                {
+                  "name": "4662Z - Commerce de gros (commerce interentreprises) de machines-outils", 
+                  "value": 22
+                }, 
+                {
+                  "name": "4663Z - Commerce de gros (commerce interentreprises) de machines pour l'extraction, la construction et le g\u00e9nie civil", 
+                  "value": 35
+                }, 
+                {
+                  "name": "4664Z - Commerce de gros (commerce interentreprises) de machines pour l'industrie textile et l'habillement", 
+                  "value": 3
+                }, 
+                {
+                  "name": "4665Z - Commerce de gros (commerce interentreprises) de mobilier de bureau", 
+                  "value": 27
+                }, 
+                {
+                  "name": "4666Z - Commerce de gros (commerce interentreprises) d'autres machines et \u00e9quipements de bureau", 
+                  "value": 37
+                }, 
+                {
+                  "name": "4669A - Commerce de gros (commerce interentreprises) de mat\u00e9riel \u00e9lectrique", 
+                  "value": 65
+                }, 
+                {
+                  "name": "4669B - Commerce de gros (commerce interentreprises) de fournitures et \u00e9quipements industriels divers", 
+                  "value": 232
+                }, 
+                {
+                  "name": "4669C - Commerce de gros (commerce interentreprises) de fournitures et \u00e9quipements divers pour le commerce et les services", 
+                  "value": 217
+                }
+              ], 
+              "name": "466 - Commerce de gros d'autres \u00e9quipements industriels"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4671Z - Commerce de gros (commerce interentreprises) de combustibles et de produits annexes", 
+                  "value": 10
+                }, 
+                {
+                  "name": "4672Z - Commerce de gros (commerce interentreprises) de minerais et m\u00e9taux", 
+                  "value": 49
+                }, 
+                {
+                  "name": "4673A - Commerce de gros (commerce interentreprises) de bois et de mat\u00e9riaux de construction", 
+                  "value": 245
+                }, 
+                {
+                  "name": "4673B - Commerce de gros (commerce interentreprises) d'appareils sanitaires et de produits de d\u00e9coration", 
+                  "value": 66
+                }, 
+                {
+                  "name": "4674A - Commerce de gros (commerce interentreprises) de quincaillerie", 
+                  "value": 41
+                }, 
+                {
+                  "name": "4674B - Commerce de gros (commerce interentreprises) de fournitures pour la plomberie et le chauffage", 
+                  "value": 39
+                }, 
+                {
+                  "name": "4675Z - Commerce de gros (commerce interentreprises) de produits chimiques", 
+                  "value": 34
+                }, 
+                {
+                  "name": "4676Z - Commerce de gros (commerce interentreprises) d'autres produits interm\u00e9diaires", 
+                  "value": 60
+                }, 
+                {
+                  "name": "4677Z - Commerce de gros (commerce interentreprises) de d\u00e9chets et d\u00e9bris", 
+                  "value": 54
+                }
+              ], 
+              "name": "467 - Autres commerces de gros sp\u00e9cialis\u00e9s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4690Z - Commerce de gros (commerce interentreprises) non sp\u00e9cialis\u00e9", 
+                  "value": 761
+                }
+              ], 
+              "name": "469 - Commerce de gros non sp\u00e9cialis\u00e9"
+            }
+          ], 
+          "name": "46 - Commerce de gros, \u00e0 l'exception des automobiles et des motocycles"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "4711A - Commerce de d\u00e9tail de produits surgel\u00e9s", 
+                  "value": 6
+                }, 
+                {
+                  "name": "4711B - Commerce d'alimentation g\u00e9n\u00e9rale", 
+                  "value": 715
+                }, 
+                {
+                  "name": "4711C - Sup\u00e9rettes", 
+                  "value": 21
+                }, 
+                {
+                  "name": "4711D - Supermarch\u00e9s", 
+                  "value": 7
+                }, 
+                {
+                  "name": "4711E - Magasins multi-commerces", 
+                  "value": 3
+                }, 
+                {
+                  "name": "4719B - Autres commerces de d\u00e9tail en magasin non sp\u00e9cialis\u00e9", 
+                  "value": 703
+                }
+              ], 
+              "name": "471 - Commerce de d\u00e9tail en magasin non sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4721Z - Commerce de d\u00e9tail de fruits et l\u00e9gumes en magasin sp\u00e9cialis\u00e9", 
+                  "value": 150
+                }, 
+                {
+                  "name": "4722Z - Commerce de d\u00e9tail de viandes et de produits \u00e0 base de viande en magasin sp\u00e9cialis\u00e9", 
+                  "value": 152
+                }, 
+                {
+                  "name": "4723Z - Commerce de d\u00e9tail de poissons, crustac\u00e9s et mollusques en magasin sp\u00e9cialis\u00e9", 
+                  "value": 109
+                }, 
+                {
+                  "name": "4724Z - Commerce de d\u00e9tail de pain, p\u00e2tisserie et confiserie en magasin sp\u00e9cialis\u00e9", 
+                  "value": 466
+                }, 
+                {
+                  "name": "4725Z - Commerce de d\u00e9tail de boissons en magasin sp\u00e9cialis\u00e9", 
+                  "value": 726
+                }, 
+                {
+                  "name": "4726Z - Commerce de d\u00e9tail de produits \u00e0 base de tabac en magasin sp\u00e9cialis\u00e9", 
+                  "value": 86
+                }, 
+                {
+                  "name": "4729Z - Autres commerces de d\u00e9tail alimentaires en magasin sp\u00e9cialis\u00e9", 
+                  "value": 780
+                }
+              ], 
+              "name": "472 - Commerce de d\u00e9tail alimentaire en magasin sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4730Z - Commerce de d\u00e9tail de carburants en magasin sp\u00e9cialis\u00e9", 
+                  "value": 37
+                }
+              ], 
+              "name": "473 - Commerce de d\u00e9tail de carburants en magasin sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4741Z - Commerce de d\u00e9tail d'ordinateurs, d'unit\u00e9s p\u00e9riph\u00e9riques et de logiciels en magasin sp\u00e9cialis\u00e9", 
+                  "value": 444
+                }, 
+                {
+                  "name": "4742Z - Commerce de d\u00e9tail de mat\u00e9riels de t\u00e9l\u00e9communication en magasin sp\u00e9cialis\u00e9", 
+                  "value": 281
+                }, 
+                {
+                  "name": "4743Z - Commerce de d\u00e9tail de mat\u00e9riels audio et vid\u00e9o en magasin sp\u00e9cialis\u00e9", 
+                  "value": 163
+                }
+              ], 
+              "name": "474 - Commerce de d\u00e9tail d'\u00e9quipements de l'information et de la communication en magasin sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4751Z - Commerce de d\u00e9tail de textiles en magasin sp\u00e9cialis\u00e9", 
+                  "value": 976
+                }, 
+                {
+                  "name": "4752A - Commerce de d\u00e9tail de quincaillerie, peintures et verres en petites surfaces (moins de 400 m\u00b2)", 
+                  "value": 381
+                }, 
+                {
+                  "name": "4752B - Commerce de d\u00e9tail de quincaillerie, peintures et verres en grandes surfaces (400 m\u00b2 et plus)", 
+                  "value": 59
+                }, 
+                {
+                  "name": "4753Z - Commerce de d\u00e9tail de tapis, moquettes et rev\u00eatements de murs et de sols en magasin sp\u00e9cialis\u00e9", 
+                  "value": 84
+                }, 
+                {
+                  "name": "4754Z - Commerce de d\u00e9tail d'appareils \u00e9lectrom\u00e9nagers en magasin sp\u00e9cialis\u00e9", 
+                  "value": 385
+                }, 
+                {
+                  "name": "4759A - Commerce de d\u00e9tail de meubles", 
+                  "value": 1036
+                }, 
+                {
+                  "name": "4759B - Commerce de d\u00e9tail d'autres \u00e9quipements du foyer", 
+                  "value": 1474
+                }
+              ], 
+              "name": "475 - Commerce de d\u00e9tail d'autres \u00e9quipements du foyer en magasin sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4761Z - Commerce de d\u00e9tail de livres en magasin sp\u00e9cialis\u00e9", 
+                  "value": 779
+                }, 
+                {
+                  "name": "4762Z - Commerce de d\u00e9tail de journaux et papeterie en magasin sp\u00e9cialis\u00e9", 
+                  "value": 360
+                }, 
+                {
+                  "name": "4763Z - Commerce de d\u00e9tail d'enregistrements musicaux et vid\u00e9o en magasin sp\u00e9cialis\u00e9", 
+                  "value": 92
+                }, 
+                {
+                  "name": "4764Z - Commerce de d\u00e9tail d'articles de sport en magasin sp\u00e9cialis\u00e9", 
+                  "value": 1373
+                }, 
+                {
+                  "name": "4765Z - Commerce de d\u00e9tail de jeux et jouets en magasin sp\u00e9cialis\u00e9", 
+                  "value": 439
+                }
+              ], 
+              "name": "476 - Commerce de d\u00e9tail de biens culturels et de loisirs en magasin sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4771Z - Commerce de d\u00e9tail d'habillement en magasin sp\u00e9cialis\u00e9", 
+                  "value": 8518
+                }, 
+                {
+                  "name": "4772A - Commerce de d\u00e9tail de la chaussure", 
+                  "value": 1350
+                }, 
+                {
+                  "name": "4772B - Commerce de d\u00e9tail de maroquinerie et d'articles de voyage", 
+                  "value": 411
+                }, 
+                {
+                  "name": "4773Z - Commerce de d\u00e9tail de produits pharmaceutiques en magasin sp\u00e9cialis\u00e9", 
+                  "value": 24
+                }, 
+                {
+                  "name": "4774Z - Commerce de d\u00e9tail d'articles m\u00e9dicaux et orthop\u00e9diques en magasin sp\u00e9cialis\u00e9", 
+                  "value": 122
+                }, 
+                {
+                  "name": "4775Z - Commerce de d\u00e9tail de parfumerie et de produits de beaut\u00e9 en magasin sp\u00e9cialis\u00e9", 
+                  "value": 934
+                }, 
+                {
+                  "name": "4776Z - Commerce de d\u00e9tail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin sp\u00e9cialis\u00e9", 
+                  "value": 4014
+                }, 
+                {
+                  "name": "4777Z - Commerce de d\u00e9tail d'articles d'horlogerie et de bijouterie en magasin sp\u00e9cialis\u00e9", 
+                  "value": 967
+                }, 
+                {
+                  "name": "4778A - Commerces de d\u00e9tail d'optique", 
+                  "value": 1457
+                }, 
+                {
+                  "name": "4778B - Commerces de d\u00e9tail de charbons et combustibles", 
+                  "value": 75
+                }, 
+                {
+                  "name": "4778C - Autres commerces de d\u00e9tail sp\u00e9cialis\u00e9s divers", 
+                  "value": 4167
+                }, 
+                {
+                  "name": "4779Z - Commerce de d\u00e9tail de biens d'occasion en magasin", 
+                  "value": 2375
+                }
+              ], 
+              "name": "477 - Autres commerces de d\u00e9tail en magasin sp\u00e9cialis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4781Z - Commerce de d\u00e9tail alimentaire sur \u00e9ventaires et march\u00e9s", 
+                  "value": 2793
+                }, 
+                {
+                  "name": "4782Z - Commerce de d\u00e9tail de textiles, d'habillement et de chaussures sur \u00e9ventaires et march\u00e9s", 
+                  "value": 2329
+                }, 
+                {
+                  "name": "4789Z - Autres commerces de d\u00e9tail sur \u00e9ventaires et march\u00e9s", 
+                  "value": 7881
+                }
+              ], 
+              "name": "478 - Commerce de d\u00e9tail sur \u00e9ventaires et march\u00e9s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4791A - Vente \u00e0 distance sur catalogue g\u00e9n\u00e9ral", 
+                  "value": 1189
+                }, 
+                {
+                  "name": "4791B - Vente \u00e0 distance sur catalogue sp\u00e9cialis\u00e9", 
+                  "value": 1370
+                }, 
+                {
+                  "name": "4799A - Vente \u00e0 domicile", 
+                  "value": 1351
+                }, 
+                {
+                  "name": "4799B - Vente par automates et autres commerces de d\u00e9tail hors magasin, \u00e9ventaires ou march\u00e9s n.c.a.", 
+                  "value": 579
+                }
+              ], 
+              "name": "479 - Commerce de d\u00e9tail hors magasin, \u00e9ventaires ou march\u00e9s"
+            }
+          ], 
+          "name": "47 - Commerce de d\u00e9tail, \u00e0 l'exception des automobiles et des motocycles"
+        }
+      ], 
+      "name": "G - Commerce ; r\u00e9paration d'automobiles et de motocycles"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "491 - Transport ferroviaire interurbain de voyageurs"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4920Z - Transports ferroviaires de fret", 
+                  "value": 1
+                }
+              ], 
+              "name": "492 - Transports ferroviaires de fret"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4931Z - Transports urbains et suburbains de voyageurs", 
+                  "value": 213
+                }, 
+                {
+                  "name": "4932Z - Transports de voyageurs par taxis", 
+                  "value": 14630
+                }, 
+                {
+                  "name": "4939A - Transports routiers r\u00e9guliers de voyageurs", 
+                  "value": 92
+                }, 
+                {
+                  "name": "4939B - Autres transports routiers de voyageurs", 
+                  "value": 410
+                }, 
+                {
+                  "name": "4939C - T\u00e9l\u00e9ph\u00e9riques et remont\u00e9es m\u00e9caniques", 
+                  "value": 1
+                }
+              ], 
+              "name": "493 - Autres transports terrestres de voyageurs"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "4941A - Transports routiers de fret interurbains", 
+                  "value": 576
+                }, 
+                {
+                  "name": "4941B - Transports routiers de fret de proximit\u00e9", 
+                  "value": 812
+                }, 
+                {
+                  "name": "4941C - Location de camions avec chauffeur", 
+                  "value": 31
+                }, 
+                {
+                  "name": "4942Z - Services de d\u00e9m\u00e9nagement", 
+                  "value": 104
+                }
+              ], 
+              "name": "494 - Transports routiers de fret et services de d\u00e9m\u00e9nagement"
+            }, 
+            {
+              "children": [], 
+              "name": "495 - Transports par conduites"
+            }
+          ], 
+          "name": "49 - Transports terrestres et transport par conduites"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5010Z - Transports maritimes et c\u00f4tiers de passagers", 
+                  "value": 92
+                }
+              ], 
+              "name": "501 - Transports maritimes et c\u00f4tiers de passagers"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5020Z - Transports maritimes et c\u00f4tiers de fret", 
+                  "value": 4
+                }
+              ], 
+              "name": "502 - Transports maritimes et c\u00f4tiers de fret"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5030Z - Transports fluviaux de passagers", 
+                  "value": 27
+                }
+              ], 
+              "name": "503 - Transports fluviaux de passagers"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5040Z - Transports fluviaux de fret", 
+                  "value": 23
+                }
+              ], 
+              "name": "504 - Transports fluviaux de fret"
+            }
+          ], 
+          "name": "50 - Transports par eau"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5110Z - Transports a\u00e9riens de passagers", 
+                  "value": 53
+                }
+              ], 
+              "name": "511 - Transports a\u00e9riens de passagers"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5121Z - Transports a\u00e9riens de fret", 
+                  "value": 1
+                }
+              ], 
+              "name": "512 - Transports a\u00e9riens de fret et transports spatiaux"
+            }
+          ], 
+          "name": "51 - Transports a\u00e9riens"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5210A - Entreposage et stockage frigorifique", 
+                  "value": 1
+                }, 
+                {
+                  "name": "5210B - Entreposage et stockage non frigorifique", 
+                  "value": 29
+                }
+              ], 
+              "name": "521 - Entreposage et stockage"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5221Z - Services auxiliaires des transports terrestres", 
+                  "value": 160
+                }, 
+                {
+                  "name": "5222Z - Services auxiliaires des transports par eau", 
+                  "value": 14
+                }, 
+                {
+                  "name": "5223Z - Services auxiliaires des transports a\u00e9riens", 
+                  "value": 15
+                }, 
+                {
+                  "name": "5224B - Manutention non portuaire", 
+                  "value": 39
+                }, 
+                {
+                  "name": "5229A - Messagerie, fret express", 
+                  "value": 23
+                }, 
+                {
+                  "name": "5229B - Affr\u00e8tement et organisation des transports", 
+                  "value": 76
+                }
+              ], 
+              "name": "522 - Services auxiliaires des transports"
+            }
+          ], 
+          "name": "52 - Entreposage et services auxiliaires des transports"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5310Z - Activit\u00e9s de poste dans le cadre d'une obligation de service universel", 
+                  "value": 1
+                }
+              ], 
+              "name": "531 - Activit\u00e9s de poste dans le cadre d'une obligation de service universel"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5320Z - Autres activit\u00e9s de poste et de courrier", 
+                  "value": 1539
+                }
+              ], 
+              "name": "532 - Autres activit\u00e9s de poste et de courrier"
+            }
+          ], 
+          "name": "53 - Activit\u00e9s de poste et de courrier"
+        }
+      ], 
+      "name": "H - Transports et entreposage"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5510Z - H\u00f4tels et h\u00e9bergement similaire", 
+                  "value": 2757
+                }
+              ], 
+              "name": "551 - H\u00f4tels et h\u00e9bergement similaire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5520Z - H\u00e9bergement touristique et autre h\u00e9bergement de courte dur\u00e9e", 
+                  "value": 4019
+                }
+              ], 
+              "name": "552 - H\u00e9bergement touristique et autre h\u00e9bergement de courte dur\u00e9e"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5530Z - Terrains de camping et parcs pour caravanes ou v\u00e9hicules de loisirs", 
+                  "value": 498
+                }
+              ], 
+              "name": "553 - Terrains de camping et parcs pour caravanes ou v\u00e9hicules de loisirs"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5590Z - Autres h\u00e9bergements", 
+                  "value": 19
+                }
+              ], 
+              "name": "559 - Autres h\u00e9bergements"
+            }
+          ], 
+          "name": "55 - H\u00e9bergement"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5610A - Restauration traditionnelle", 
+                  "value": 21053
+                }, 
+                {
+                  "name": "5610B - Caf\u00e9t\u00e9rias et autres libres-services", 
+                  "value": 30
+                }, 
+                {
+                  "name": "5610C - Restauration de type rapide", 
+                  "value": 13323
+                }
+              ], 
+              "name": "561 - Restaurants et services de restauration mobile"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5621Z - Services des traiteurs", 
+                  "value": 1855
+                }, 
+                {
+                  "name": "5629A - Restauration collective sous contrat", 
+                  "value": 10
+                }, 
+                {
+                  "name": "5629B - Autres services de restauration n.c.a.", 
+                  "value": 22
+                }
+              ], 
+              "name": "562 - Traiteurs et autres services de restauration"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5630Z - D\u00e9bits de boissons", 
+                  "value": 7238
+                }
+              ], 
+              "name": "563 - D\u00e9bits de boissons"
+            }
+          ], 
+          "name": "56 - Restauration"
+        }
+      ], 
+      "name": "I - H\u00e9bergement et restauration"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5811Z - \u00c9dition de livres", 
+                  "value": 311
+                }, 
+                {
+                  "name": "5812Z - \u00c9dition de r\u00e9pertoires et de fichiers d'adresses", 
+                  "value": 7
+                }, 
+                {
+                  "name": "5813Z - \u00c9dition de journaux", 
+                  "value": 107
+                }, 
+                {
+                  "name": "5814Z - \u00c9dition de revues et p\u00e9riodiques", 
+                  "value": 286
+                }, 
+                {
+                  "name": "5819Z - Autres activit\u00e9s d'\u00e9dition", 
+                  "value": 116
+                }
+              ], 
+              "name": "581 - \u00c9dition de livres et p\u00e9riodiques et autres activit\u00e9s d'\u00e9dition"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5821Z - \u00c9dition de jeux \u00e9lectroniques", 
+                  "value": 15
+                }, 
+                {
+                  "name": "5829A - \u00c9dition de logiciels syst\u00e8me et de r\u00e9seau", 
+                  "value": 16
+                }, 
+                {
+                  "name": "5829B - \u00c9dition de logiciels outils de d\u00e9veloppement et de langages", 
+                  "value": 3
+                }, 
+                {
+                  "name": "5829C - \u00c9dition de logiciels applicatifs", 
+                  "value": 105
+                }
+              ], 
+              "name": "582 - \u00c9dition de logiciels"
+            }
+          ], 
+          "name": "58 - \u00c9dition"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "5911A - Production de films et de programmes pour la t\u00e9l\u00e9vision", 
+                  "value": 719
+                }, 
+                {
+                  "name": "5911B - Production de films institutionnels et publicitaires", 
+                  "value": 863
+                }, 
+                {
+                  "name": "5911C - Production de films pour le cin\u00e9ma", 
+                  "value": 214
+                }, 
+                {
+                  "name": "5912Z - Post-production de films cin\u00e9matographiques, de vid\u00e9o et de programmes de t\u00e9l\u00e9vision", 
+                  "value": 235
+                }, 
+                {
+                  "name": "5913A - Distribution de films cin\u00e9matographiques", 
+                  "value": 9
+                }, 
+                {
+                  "name": "5913B - \u00c9dition et distribution vid\u00e9o", 
+                  "value": 33
+                }, 
+                {
+                  "name": "5914Z - Projection de films cin\u00e9matographiques", 
+                  "value": 93
+                }
+              ], 
+              "name": "591 - Activit\u00e9s cin\u00e9matographiques, vid\u00e9o et de t\u00e9l\u00e9vision"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "5920Z - Enregistrement sonore et \u00e9dition musicale", 
+                  "value": 386
+                }
+              ], 
+              "name": "592 - Enregistrement sonore et \u00e9dition musicale"
+            }
+          ], 
+          "name": "59 - Production de films cin\u00e9matographiques, de vid\u00e9o et de programmes de t\u00e9l\u00e9vision ; enregistrement sonore et \u00e9dition musicale"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6010Z - \u00c9dition et diffusion de programmes radio", 
+                  "value": 16
+                }
+              ], 
+              "name": "601 - \u00c9dition et diffusion de programmes radio"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6020B - \u00c9dition de cha\u00eenes th\u00e9matiques", 
+                  "value": 4
+                }
+              ], 
+              "name": "602 - Programmation de t\u00e9l\u00e9vision et t\u00e9l\u00e9diffusion"
+            }
+          ], 
+          "name": "60 - Programmation et diffusion"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6110Z - T\u00e9l\u00e9communications filaires", 
+                  "value": 40
+                }
+              ], 
+              "name": "611 - T\u00e9l\u00e9communications filaires"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6120Z - T\u00e9l\u00e9communications sans fil", 
+                  "value": 11
+                }
+              ], 
+              "name": "612 - T\u00e9l\u00e9communications sans fil"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6130Z - T\u00e9l\u00e9communications par satellite", 
+                  "value": 2
+                }
+              ], 
+              "name": "613 - T\u00e9l\u00e9communications par satellite"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6190Z - Autres activit\u00e9s de t\u00e9l\u00e9communication", 
+                  "value": 126
+                }
+              ], 
+              "name": "619 - Autres activit\u00e9s de t\u00e9l\u00e9communication"
+            }
+          ], 
+          "name": "61 - T\u00e9l\u00e9communications"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6201Z - Programmation informatique", 
+                  "value": 1867
+                }, 
+                {
+                  "name": "6202A - Conseil en syst\u00e8mes et logiciels informatiques", 
+                  "value": 1295
+                }, 
+                {
+                  "name": "6202B - Tierce maintenance de syst\u00e8mes et d'applications informatiques", 
+                  "value": 177
+                }, 
+                {
+                  "name": "6203Z - Gestion d'installations informatiques", 
+                  "value": 56
+                }, 
+                {
+                  "name": "6209Z - Autres activit\u00e9s informatiques", 
+                  "value": 230
+                }
+              ], 
+              "name": "620 - Programmation, conseil et autres activit\u00e9s informatiques"
+            }
+          ], 
+          "name": "62 - Programmation, conseil et autres activit\u00e9s informatiques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6311Z - Traitement de donn\u00e9es, h\u00e9bergement et activit\u00e9s connexes", 
+                  "value": 150
+                }, 
+                {
+                  "name": "6312Z - Portails Internet", 
+                  "value": 249
+                }
+              ], 
+              "name": "631 - Traitement de donn\u00e9es, h\u00e9bergement et activit\u00e9s connexes ; portails Internet"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6391Z - Activit\u00e9s des agences de presse", 
+                  "value": 92
+                }, 
+                {
+                  "name": "6399Z - Autres services d'information n.c.a.", 
+                  "value": 44
+                }
+              ], 
+              "name": "639 - Autres services d'information"
+            }
+          ], 
+          "name": "63 - Services d'information"
+        }
+      ], 
+      "name": "J - Information et communication"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6419Z - Autres interm\u00e9diations mon\u00e9taires", 
+                  "value": 90
+                }
+              ], 
+              "name": "641 - Interm\u00e9diation mon\u00e9taire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6420Z - Activit\u00e9s des soci\u00e9t\u00e9s holding", 
+                  "value": 517
+                }
+              ], 
+              "name": "642 - Activit\u00e9s des soci\u00e9t\u00e9s holding"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6430Z - Fonds de placement et entit\u00e9s financi\u00e8res similaires", 
+                  "value": 47
+                }
+              ], 
+              "name": "643 - Fonds de placement et entit\u00e9s financi\u00e8res similaires"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6492Z - Autre distribution de cr\u00e9dit", 
+                  "value": 132
+                }, 
+                {
+                  "name": "6499Z - Autres activit\u00e9s des services financiers, hors assurance et caisses de retraite, n.c.a.", 
+                  "value": 54
+                }
+              ], 
+              "name": "649 - Autres activit\u00e9s des services financiers, hors assurance et caisses de retraite"
+            }
+          ], 
+          "name": "64 - Activit\u00e9s des services financiers, hors assurance et caisses de retraite"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6511Z - Assurance vie", 
+                  "value": 2
+                }, 
+                {
+                  "name": "6512Z - Autres assurances", 
+                  "value": 11
+                }
+              ], 
+              "name": "651 - Assurance"
+            }, 
+            {
+              "children": [], 
+              "name": "652 - R\u00e9assurance"
+            }, 
+            {
+              "children": [], 
+              "name": "653 - Caisses de retraite"
+            }
+          ], 
+          "name": "65 - Assurance"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6611Z - Administration de march\u00e9s financiers", 
+                  "value": 1
+                }, 
+                {
+                  "name": "6612Z - Courtage de valeurs mobili\u00e8res et de marchandises", 
+                  "value": 22
+                }, 
+                {
+                  "name": "6619A - Supports juridiques de gestion de patrimoine mobilier", 
+                  "value": 26
+                }, 
+                {
+                  "name": "6619B - Autres activit\u00e9s auxiliaires de services financiers, hors assurance et caisses de retraite, n.c.a.", 
+                  "value": 1247
+                }
+              ], 
+              "name": "661 - Activit\u00e9s auxiliaires de services financiers, hors assurance et caisses de retraite"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6621Z - \u00c9valuation des risques et dommages", 
+                  "value": 74
+                }, 
+                {
+                  "name": "6622Z - Activit\u00e9s des agents et courtiers d'assurances", 
+                  "value": 942
+                }, 
+                {
+                  "name": "6629Z - Autres activit\u00e9s auxiliaires d'assurance et de caisses de retraite", 
+                  "value": 17
+                }
+              ], 
+              "name": "662 - Activit\u00e9s auxiliaires d'assurance et de caisses de retraite"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6630Z - Gestion de fonds", 
+                  "value": 75
+                }
+              ], 
+              "name": "663 - Gestion de fonds"
+            }
+          ], 
+          "name": "66 - Activit\u00e9s auxiliaires de services financiers et d'assurance"
+        }
+      ], 
+      "name": "K - Activit\u00e9s financi\u00e8res et d'assurance"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6810Z - Activit\u00e9s des marchands de biens immobiliers", 
+                  "value": 283
+                }
+              ], 
+              "name": "681 - Activit\u00e9s des marchands de biens immobiliers"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6820A - Location de logements", 
+                  "value": 1464
+                }, 
+                {
+                  "name": "6820B - Location de terrains et d'autres biens immobiliers", 
+                  "value": 906
+                }
+              ], 
+              "name": "682 - Location et exploitation de biens immobiliers propres ou lou\u00e9s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6831Z - Agences immobili\u00e8res", 
+                  "value": 7983
+                }, 
+                {
+                  "name": "6832A - Administration d'immeubles et autres biens immobiliers", 
+                  "value": 96
+                }, 
+                {
+                  "name": "6832B - Supports juridiques de gestion de patrimoine immobilier", 
+                  "value": 19
+                }
+              ], 
+              "name": "683 - Activit\u00e9s immobili\u00e8res pour compte de tiers"
+            }
+          ], 
+          "name": "68 - Activit\u00e9s immobili\u00e8res"
+        }
+      ], 
+      "name": "L - Activit\u00e9s immobili\u00e8res"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "6910Z - Activit\u00e9s juridiques", 
+                  "value": 3101
+                }
+              ], 
+              "name": "691 - Activit\u00e9s juridiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "6920Z - Activit\u00e9s comptables", 
+                  "value": 329
+                }
+              ], 
+              "name": "692 - Activit\u00e9s comptables"
+            }
+          ], 
+          "name": "69 - Activit\u00e9s juridiques et comptables"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7010Z - Activit\u00e9s des si\u00e8ges sociaux", 
+                  "value": 4503
+                }
+              ], 
+              "name": "701 - Activit\u00e9s des si\u00e8ges sociaux"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7021Z - Conseil en relations publiques et communication", 
+                  "value": 2577
+                }, 
+                {
+                  "name": "7022Z - Conseil pour les affaires et autres conseils de gestion", 
+                  "value": 10184
+                }
+              ], 
+              "name": "702 - Conseil de gestion"
+            }
+          ], 
+          "name": "70 - Activit\u00e9s des si\u00e8ges sociaux ; conseil de gestion"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7111Z - Activit\u00e9s d'architecture", 
+                  "value": 2382
+                }, 
+                {
+                  "name": "7112A - Activit\u00e9 des g\u00e9om\u00e8tres", 
+                  "value": 87
+                }, 
+                {
+                  "name": "7112B - Ing\u00e9nierie, \u00e9tudes techniques", 
+                  "value": 2543
+                }
+              ], 
+              "name": "711 - Activit\u00e9s d'architecture et d'ing\u00e9nierie"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7120A - Contr\u00f4le technique automobile", 
+                  "value": 254
+                }, 
+                {
+                  "name": "7120B - Analyses, essais et inspections techniques", 
+                  "value": 759
+                }
+              ], 
+              "name": "712 - Activit\u00e9s de contr\u00f4le et analyses techniques"
+            }
+          ], 
+          "name": "71 - Activit\u00e9s d'architecture et d'ing\u00e9nierie ; activit\u00e9s de contr\u00f4le et analyses techniques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7211Z - Recherche-d\u00e9veloppement en biotechnologie", 
+                  "value": 19
+                }, 
+                {
+                  "name": "7219Z - Recherche-d\u00e9veloppement en autres sciences physiques et naturelles", 
+                  "value": 58
+                }
+              ], 
+              "name": "721 - Recherche-d\u00e9veloppement en sciences physiques et naturelles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7220Z - Recherche-d\u00e9veloppement en sciences humaines et sociales", 
+                  "value": 80
+                }
+              ], 
+              "name": "722 - Recherche-d\u00e9veloppement en sciences humaines et sociales"
+            }
+          ], 
+          "name": "72 - Recherche-d\u00e9veloppement scientifique"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7311Z - Activit\u00e9s des agences de publicit\u00e9", 
+                  "value": 1809
+                }, 
+                {
+                  "name": "7312Z - R\u00e9gie publicitaire de m\u00e9dias", 
+                  "value": 265
+                }
+              ], 
+              "name": "731 - Publicit\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7320Z - \u00c9tudes de march\u00e9 et sondages", 
+                  "value": 130
+                }
+              ], 
+              "name": "732 - \u00c9tudes de march\u00e9 et sondages"
+            }
+          ], 
+          "name": "73 - Publicit\u00e9 et \u00e9tudes de march\u00e9"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7410Z - Activit\u00e9s sp\u00e9cialis\u00e9es de design", 
+                  "value": 3582
+                }
+              ], 
+              "name": "741 - Activit\u00e9s sp\u00e9cialis\u00e9es de design"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7420Z - Activit\u00e9s photographiques", 
+                  "value": 4013
+                }
+              ], 
+              "name": "742 - Activit\u00e9s photographiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7430Z - Traduction et interpr\u00e9tation", 
+                  "value": 1118
+                }
+              ], 
+              "name": "743 - Traduction et interpr\u00e9tation"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7490A - Activit\u00e9 des \u00e9conomistes de la construction", 
+                  "value": 451
+                }, 
+                {
+                  "name": "7490B - Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques diverses", 
+                  "value": 1409
+                }
+              ], 
+              "name": "749 - Autres activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques n.c.a."
+            }
+          ], 
+          "name": "74 - Autres activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7500Z - Activit\u00e9s v\u00e9t\u00e9rinaires", 
+                  "value": 253
+                }
+              ], 
+              "name": "750 - Activit\u00e9s v\u00e9t\u00e9rinaires"
+            }
+          ], 
+          "name": "75 - Activit\u00e9s v\u00e9t\u00e9rinaires"
+        }
+      ], 
+      "name": "M - Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7711A - Location de courte dur\u00e9e de voitures et de v\u00e9hicules automobiles l\u00e9gers", 
+                  "value": 401
+                }, 
+                {
+                  "name": "7711B - Location de longue dur\u00e9e de voitures et de v\u00e9hicules automobiles l\u00e9gers", 
+                  "value": 6
+                }, 
+                {
+                  "name": "7712Z - Location et location-bail de camions", 
+                  "value": 18
+                }
+              ], 
+              "name": "771 - Location et location-bail de v\u00e9hicules automobiles"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7721Z - Location et location-bail d'articles de loisirs et de sport", 
+                  "value": 302
+                }, 
+                {
+                  "name": "7722Z - Location de vid\u00e9ocassettes et disques vid\u00e9o", 
+                  "value": 14
+                }, 
+                {
+                  "name": "7729Z - Location et location-bail d'autres biens personnels et domestiques", 
+                  "value": 265
+                }
+              ], 
+              "name": "772 - Location et location-bail de biens personnels et domestiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7731Z - Location et location-bail de machines et \u00e9quipements agricoles", 
+                  "value": 2
+                }, 
+                {
+                  "name": "7732Z - Location et location-bail de machines et \u00e9quipements pour la construction", 
+                  "value": 86
+                }, 
+                {
+                  "name": "7733Z - Location et location-bail de machines de bureau et de mat\u00e9riel informatique", 
+                  "value": 9
+                }, 
+                {
+                  "name": "7734Z - Location et location-bail de mat\u00e9riels de transport par eau", 
+                  "value": 8
+                }, 
+                {
+                  "name": "7735Z - Location et location-bail de mat\u00e9riels de transport a\u00e9rien", 
+                  "value": 10
+                }, 
+                {
+                  "name": "7739Z - Location et location-bail d'autres machines, \u00e9quipements et biens mat\u00e9riels n.c.a.", 
+                  "value": 147
+                }
+              ], 
+              "name": "773 - Location et location-bail d'autres machines, \u00e9quipements et biens"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7740Z - Location-bail de propri\u00e9t\u00e9 intellectuelle et de produits similaires, \u00e0 l'exception des \u0153uvres soumises \u00e0 copyright", 
+                  "value": 27
+                }
+              ], 
+              "name": "774 - Location-bail de propri\u00e9t\u00e9 intellectuelle et de produits similaires, \u00e0 l'exception des \u0153uvres soumises \u00e0 copyright"
+            }
+          ], 
+          "name": "77 - Activit\u00e9s de location et location-bail"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7810Z - Activit\u00e9s des agences de placement de main-d'\u0153uvre", 
+                  "value": 79
+                }
+              ], 
+              "name": "781 - Activit\u00e9s des agences de placement de main-d'\u0153uvre"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7820Z - Activit\u00e9s des agences de travail temporaire", 
+                  "value": 9
+                }
+              ], 
+              "name": "782 - Activit\u00e9s des agences de travail temporaire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7830Z - Autre mise \u00e0 disposition de ressources humaines", 
+                  "value": 59
+                }
+              ], 
+              "name": "783 - Autre mise \u00e0 disposition de ressources humaines"
+            }
+          ], 
+          "name": "78 - Activit\u00e9s li\u00e9es \u00e0 l'emploi"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "7911Z - Activit\u00e9s des agences de voyage", 
+                  "value": 470
+                }, 
+                {
+                  "name": "7912Z - Activit\u00e9s des voyagistes", 
+                  "value": 213
+                }
+              ], 
+              "name": "791 - Activit\u00e9s des agences de voyage et voyagistes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "7990Z - Autres services de r\u00e9servation et activit\u00e9s connexes", 
+                  "value": 1008
+                }
+              ], 
+              "name": "799 - Autres services de r\u00e9servation et activit\u00e9s connexes"
+            }
+          ], 
+          "name": "79 - Activit\u00e9s des agences de voyage, voyagistes, services de r\u00e9servation et activit\u00e9s connexes"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8010Z - Activit\u00e9s de s\u00e9curit\u00e9 priv\u00e9e", 
+                  "value": 200
+                }
+              ], 
+              "name": "801 - Activit\u00e9s de s\u00e9curit\u00e9 priv\u00e9e"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8020Z - Activit\u00e9s li\u00e9es aux syst\u00e8mes de s\u00e9curit\u00e9", 
+                  "value": 130
+                }
+              ], 
+              "name": "802 - Activit\u00e9s li\u00e9es aux syst\u00e8mes de s\u00e9curit\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8030Z - Activit\u00e9s d'enqu\u00eate", 
+                  "value": 93
+                }
+              ], 
+              "name": "803 - Activit\u00e9s d'enqu\u00eate"
+            }
+          ], 
+          "name": "80 - Enqu\u00eates et s\u00e9curit\u00e9"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8110Z - Activit\u00e9s combin\u00e9es de soutien li\u00e9 aux b\u00e2timents", 
+                  "value": 79
+                }
+              ], 
+              "name": "811 - Activit\u00e9s combin\u00e9es de soutien li\u00e9 aux b\u00e2timents"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8121Z - Nettoyage courant des b\u00e2timents", 
+                  "value": 4488
+                }, 
+                {
+                  "name": "8122Z - Autres activit\u00e9s de nettoyage des b\u00e2timents et nettoyage industriel", 
+                  "value": 635
+                }, 
+                {
+                  "name": "8129A - D\u00e9sinfection, d\u00e9sinsectisation, d\u00e9ratisation", 
+                  "value": 126
+                }, 
+                {
+                  "name": "8129B - Autres activit\u00e9s de nettoyage n.c.a.", 
+                  "value": 251
+                }
+              ], 
+              "name": "812 - Activit\u00e9s de nettoyage"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8130Z - Services d'am\u00e9nagement paysager", 
+                  "value": 2109
+                }
+              ], 
+              "name": "813 - Services d'am\u00e9nagement paysager"
+            }
+          ], 
+          "name": "81 - Services relatifs aux b\u00e2timents et am\u00e9nagement paysager"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8211Z - Services administratifs combin\u00e9s de bureau", 
+                  "value": 1172
+                }, 
+                {
+                  "name": "8219Z - Photocopie, pr\u00e9paration de documents et autres activit\u00e9s sp\u00e9cialis\u00e9es de soutien de bureau", 
+                  "value": 1433
+                }
+              ], 
+              "name": "821 - Activit\u00e9s administratives"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8220Z - Activit\u00e9s de centres d'appels", 
+                  "value": 103
+                }
+              ], 
+              "name": "822 - Activit\u00e9s de centres d'appels"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8230Z - Organisation de foires, salons professionnels et congr\u00e8s", 
+                  "value": 1171
+                }
+              ], 
+              "name": "823 - Organisation de salons professionnels et congr\u00e8s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8291Z - Activit\u00e9s des agences de recouvrement de factures et des soci\u00e9t\u00e9s d'information financi\u00e8re sur la client\u00e8le", 
+                  "value": 27
+                }, 
+                {
+                  "name": "8292Z - Activit\u00e9s de conditionnement", 
+                  "value": 50
+                }, 
+                {
+                  "name": "8299Z - Autres activit\u00e9s de soutien aux entreprises n.c.a.", 
+                  "value": 1421
+                }
+              ], 
+              "name": "829 - Activit\u00e9s de soutien aux entreprises n.c.a."
+            }
+          ], 
+          "name": "82 - Activit\u00e9s administratives et autres activit\u00e9s de soutien aux entreprises"
+        }
+      ], 
+      "name": "N - Activit\u00e9s de services administratifs et de soutien"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "841 - Administration g\u00e9n\u00e9rale, \u00e9conomique et sociale"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8423Z - Justice", 
+                  "value": 1
+                }, 
+                {
+                  "name": "8425Z - Services du feu et de secours", 
+                  "value": 2
+                }
+              ], 
+              "name": "842 - Services de pr\u00e9rogative publique"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8430B - Gestion des retraites compl\u00e9mentaires", 
+                  "value": 4
+                }
+              ], 
+              "name": "843 - S\u00e9curit\u00e9 sociale obligatoire"
+            }
+          ], 
+          "name": "84 - Administration publique et d\u00e9fense ; s\u00e9curit\u00e9 sociale obligatoire"
+        }
+      ], 
+      "name": "O - Administration publique"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8510Z - Enseignement pr\u00e9-primaire", 
+                  "value": 8
+                }
+              ], 
+              "name": "851 - Enseignement pr\u00e9-primaire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8520Z - Enseignement primaire", 
+                  "value": 3
+                }
+              ], 
+              "name": "852 - Enseignement primaire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8531Z - Enseignement secondaire g\u00e9n\u00e9ral", 
+                  "value": 6
+                }, 
+                {
+                  "name": "8532Z - Enseignement secondaire technique ou professionnel", 
+                  "value": 205
+                }
+              ], 
+              "name": "853 - Enseignement secondaire"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8541Z - Enseignement post-secondaire non sup\u00e9rieur", 
+                  "value": 3
+                }, 
+                {
+                  "name": "8542Z - Enseignement sup\u00e9rieur", 
+                  "value": 163
+                }
+              ], 
+              "name": "854 - Enseignement sup\u00e9rieur et post-secondaire non sup\u00e9rieur"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8551Z - Enseignement de disciplines sportives et d'activit\u00e9s de loisirs", 
+                  "value": 10813
+                }, 
+                {
+                  "name": "8552Z - Enseignement culturel", 
+                  "value": 3080
+                }, 
+                {
+                  "name": "8553Z - Enseignement de la conduite", 
+                  "value": 3684
+                }, 
+                {
+                  "name": "8559A - Formation continue d'adultes", 
+                  "value": 3344
+                }, 
+                {
+                  "name": "8559B - Autres enseignements", 
+                  "value": 3575
+                }
+              ], 
+              "name": "855 - Autres activit\u00e9s d'enseignement"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8560Z - Activit\u00e9s de soutien \u00e0 l'enseignement", 
+                  "value": 162
+                }
+              ], 
+              "name": "856 - Activit\u00e9s de soutien \u00e0 l'enseignement"
+            }
+          ], 
+          "name": "85 - Enseignement"
+        }
+      ], 
+      "name": "P - Enseignement"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8610Z - Activit\u00e9s hospitali\u00e8res", 
+                  "value": 6
+                }
+              ], 
+              "name": "861 - Activit\u00e9s hospitali\u00e8res"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8621Z - Activit\u00e9 des m\u00e9decins g\u00e9n\u00e9ralistes", 
+                  "value": 469
+                }, 
+                {
+                  "name": "8622A - Activit\u00e9s de radiodiagnostic et de radioth\u00e9rapie", 
+                  "value": 22
+                }, 
+                {
+                  "name": "8622B - Activit\u00e9s chirurgicales", 
+                  "value": 72
+                }, 
+                {
+                  "name": "8622C - Autres activit\u00e9s des m\u00e9decins sp\u00e9cialistes", 
+                  "value": 421
+                }, 
+                {
+                  "name": "8623Z - Pratique dentaire", 
+                  "value": 2251
+                }
+              ], 
+              "name": "862 - Activit\u00e9 des m\u00e9decins et des dentistes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8690A - Ambulances", 
+                  "value": 73
+                }, 
+                {
+                  "name": "8690B - Laboratoires d'analyses m\u00e9dicales", 
+                  "value": 2
+                }, 
+                {
+                  "name": "8690D - Activit\u00e9s des infirmiers et des sages-femmes", 
+                  "value": 864
+                }, 
+                {
+                  "name": "8690E - Activit\u00e9s des professionnels de la r\u00e9\u00e9ducation, de l'appareillage et des p\u00e9dicures-podologues", 
+                  "value": 22726
+                }, 
+                {
+                  "name": "8690F - Activit\u00e9s de sant\u00e9 humaine non class\u00e9es ailleurs", 
+                  "value": 11603
+                }
+              ], 
+              "name": "869 - Autres activit\u00e9s pour la sant\u00e9 humaine"
+            }
+          ], 
+          "name": "86 - Activit\u00e9s pour la sant\u00e9 humaine"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8710A - H\u00e9bergement m\u00e9dicalis\u00e9 pour personnes \u00e2g\u00e9es", 
+                  "value": 1
+                }
+              ], 
+              "name": "871 - H\u00e9bergement m\u00e9dicalis\u00e9"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8720A - H\u00e9bergement social pour handicap\u00e9s mentaux et malades mentaux", 
+                  "value": 2
+                }
+              ], 
+              "name": "872 - H\u00e9bergement social pour personnes handicap\u00e9es mentales, malades mentales et toxicomanes"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8730A - H\u00e9bergement social pour personnes \u00e2g\u00e9es", 
+                  "value": 2
+                }, 
+                {
+                  "name": "8730B - H\u00e9bergement social pour handicap\u00e9s physiques", 
+                  "value": 1
+                }
+              ], 
+              "name": "873 - H\u00e9bergement social pour personnes \u00e2g\u00e9es ou handicap\u00e9es physiques"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8790A - H\u00e9bergement social pour enfants en difficult\u00e9s", 
+                  "value": 2
+                }, 
+                {
+                  "name": "8790B - H\u00e9bergement social pour adultes et familles en difficult\u00e9s et autre h\u00e9bergement social", 
+                  "value": 1
+                }
+              ], 
+              "name": "879 - Autres activit\u00e9s d'h\u00e9bergement social"
+            }
+          ], 
+          "name": "87 - H\u00e9bergement m\u00e9dico-social et social"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "8810A - Aide \u00e0 domicile", 
+                  "value": 323
+                }, 
+                {
+                  "name": "8810B - Accueil ou accompagnement sans h\u00e9bergement d'adultes handicap\u00e9s ou de personnes \u00e2g\u00e9es", 
+                  "value": 17
+                }, 
+                {
+                  "name": "8810C - Aide par le travail", 
+                  "value": 1
+                }
+              ], 
+              "name": "881 - Action sociale sans h\u00e9bergement pour personnes \u00e2g\u00e9es et pour personnes handicap\u00e9es"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "8891A - Accueil de jeunes enfants", 
+                  "value": 303
+                }, 
+                {
+                  "name": "8891B - Accueil ou accompagnement sans h\u00e9bergement d'enfants handicap\u00e9s", 
+                  "value": 4
+                }, 
+                {
+                  "name": "8899A - Autre accueil ou accompagnement sans h\u00e9bergement d'enfants et d'adolescents", 
+                  "value": 38
+                }, 
+                {
+                  "name": "8899B - Action sociale sans h\u00e9bergement n.c.a.", 
+                  "value": 155
+                }
+              ], 
+              "name": "889 - Autre action sociale sans h\u00e9bergement"
+            }
+          ], 
+          "name": "88 - Action sociale sans h\u00e9bergement"
+        }
+      ], 
+      "name": "Q - Sant\u00e9 humaine et action sociale"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9001Z - Arts du spectacle vivant", 
+                  "value": 1709
+                }, 
+                {
+                  "name": "9002Z - Activit\u00e9s de soutien au spectacle vivant", 
+                  "value": 935
+                }, 
+                {
+                  "name": "9003A - Cr\u00e9ation artistique relevant des arts plastiques", 
+                  "value": 3740
+                }, 
+                {
+                  "name": "9003B - Autre cr\u00e9ation artistique", 
+                  "value": 2032
+                }, 
+                {
+                  "name": "9004Z - Gestion de salles de spectacles", 
+                  "value": 43
+                }
+              ], 
+              "name": "900 - Activit\u00e9s cr\u00e9atives, artistiques et de spectacle"
+            }
+          ], 
+          "name": "90 - Activit\u00e9s cr\u00e9atives, artistiques et de spectacle"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9101Z - Gestion des biblioth\u00e8ques et des archives", 
+                  "value": 11
+                }, 
+                {
+                  "name": "9102Z - Gestion des mus\u00e9es", 
+                  "value": 35
+                }, 
+                {
+                  "name": "9103Z - Gestion des sites et monuments historiques et des attractions touristiques similaires", 
+                  "value": 36
+                }, 
+                {
+                  "name": "9104Z - Gestion des jardins botaniques et zoologiques et des r\u00e9serves naturelles", 
+                  "value": 22
+                }
+              ], 
+              "name": "910 - Biblioth\u00e8ques, archives, mus\u00e9es et autres activit\u00e9s culturelles"
+            }
+          ], 
+          "name": "91 - Biblioth\u00e8ques, archives, mus\u00e9es et autres activit\u00e9s culturelles"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9200Z - Organisation de jeux de hasard et d'argent", 
+                  "value": 40
+                }
+              ], 
+              "name": "920 - Organisation de jeux de hasard et d'argent"
+            }
+          ], 
+          "name": "92 - Organisation de jeux de hasard et d'argent"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9311Z - Gestion d'installations sportives", 
+                  "value": 416
+                }, 
+                {
+                  "name": "9312Z - Activit\u00e9s de clubs de sports", 
+                  "value": 318
+                }, 
+                {
+                  "name": "9313Z - Activit\u00e9s des centres de culture physique", 
+                  "value": 513
+                }, 
+                {
+                  "name": "9319Z - Autres activit\u00e9s li\u00e9es au sport", 
+                  "value": 1561
+                }
+              ], 
+              "name": "931 - Activit\u00e9s li\u00e9es au sport"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "9321Z - Activit\u00e9s des parcs d'attractions et parcs \u00e0 th\u00e8mes", 
+                  "value": 821
+                }, 
+                {
+                  "name": "9329Z - Autres activit\u00e9s r\u00e9cr\u00e9atives et de loisirs", 
+                  "value": 6241
+                }
+              ], 
+              "name": "932 - Activit\u00e9s r\u00e9cr\u00e9atives et de loisirs"
+            }
+          ], 
+          "name": "93 - Activit\u00e9s sportives, r\u00e9cr\u00e9atives et de loisirs"
+        }
+      ], 
+      "name": "R - Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9411Z - Activit\u00e9s des organisations patronales et consulaires", 
+                  "value": 1
+                }, 
+                {
+                  "name": "9412Z - Activit\u00e9s des organisations professionnelles", 
+                  "value": 1
+                }
+              ], 
+              "name": "941 - Activit\u00e9s des organisations \u00e9conomiques, patronales et professionnelles"
+            }, 
+            {
+              "children": [], 
+              "name": "942 - Activit\u00e9s des syndicats de salari\u00e9s"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "9491Z - Activit\u00e9s des organisations religieuses", 
+                  "value": 2
+                }, 
+                {
+                  "name": "9499Z - Autres organisations fonctionnant par adh\u00e9sion volontaire", 
+                  "value": 211
+                }
+              ], 
+              "name": "949 - Activit\u00e9s des autres organisations associatives"
+            }
+          ], 
+          "name": "94 - Activit\u00e9s des organisations associatives"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9511Z - R\u00e9paration d'ordinateurs et d'\u00e9quipements p\u00e9riph\u00e9riques", 
+                  "value": 934
+                }, 
+                {
+                  "name": "9512Z - R\u00e9paration d'\u00e9quipements de communication", 
+                  "value": 144
+                }
+              ], 
+              "name": "951 - R\u00e9paration d'ordinateurs et d'\u00e9quipements de communication"
+            }, 
+            {
+              "children": [
+                {
+                  "name": "9521Z - R\u00e9paration de produits \u00e9lectroniques grand public", 
+                  "value": 244
+                }, 
+                {
+                  "name": "9522Z - R\u00e9paration d'appareils \u00e9lectrom\u00e9nagers et d'\u00e9quipements pour la maison et le jardin", 
+                  "value": 335
+                }, 
+                {
+                  "name": "9523Z - R\u00e9paration de chaussures et d'articles en cuir", 
+                  "value": 1075
+                }, 
+                {
+                  "name": "9524Z - R\u00e9paration de meubles et d'\u00e9quipements du foyer", 
+                  "value": 426
+                }, 
+                {
+                  "name": "9525Z - R\u00e9paration d'articles d'horlogerie et de bijouterie", 
+                  "value": 169
+                }, 
+                {
+                  "name": "9529Z - R\u00e9paration d'autres biens personnels et domestiques", 
+                  "value": 2648
+                }
+              ], 
+              "name": "952 - R\u00e9paration de biens personnels et domestiques"
+            }
+          ], 
+          "name": "95 - R\u00e9paration d'ordinateurs et de biens personnels et domestiques"
+        }, 
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "9601A - Blanchisserie-teinturerie de gros", 
+                  "value": 31
+                }, 
+                {
+                  "name": "9601B - Blanchisserie-teinturerie de d\u00e9tail", 
+                  "value": 1013
+                }, 
+                {
+                  "name": "9602A - Coiffure", 
+                  "value": 34857
+                }, 
+                {
+                  "name": "9602B - Soins de beaut\u00e9", 
+                  "value": 17495
+                }, 
+                {
+                  "name": "9603Z - Services fun\u00e9raires", 
+                  "value": 73
+                }, 
+                {
+                  "name": "9604Z - Entretien corporel", 
+                  "value": 2761
+                }, 
+                {
+                  "name": "9609Z - Autres services personnels n.c.a.", 
+                  "value": 11052
+                }
+              ], 
+              "name": "960 - Autres services personnels"
+            }
+          ], 
+          "name": "96 - Autres services personnels"
+        }
+      ], 
+      "name": "S - Autres activit\u00e9s de services"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "970 - Activit\u00e9s des m\u00e9nages en tant qu'employeurs de personnel domestique"
+            }
+          ], 
+          "name": "97 - Activit\u00e9s des m\u00e9nages en tant qu'employeurs de personnel domestique"
+        }, 
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "981 - Activit\u00e9s indiff\u00e9renci\u00e9es des m\u00e9nages en tant que producteurs de biens pour usage propre"
+            }, 
+            {
+              "children": [], 
+              "name": "982 - Activit\u00e9s indiff\u00e9renci\u00e9es des m\u00e9nages en tant que producteurs de services pour usage propre"
+            }
+          ], 
+          "name": "98 - Activit\u00e9s indiff\u00e9renci\u00e9es des m\u00e9nages en tant que producteurs de biens et services pour usage propre"
+        }
+      ], 
+      "name": "T - Activit\u00e9s des m\u00e9nages en tant qu'employeurs ; activit\u00e9s indiff\u00e9renci\u00e9es des m\u00e9nages en tant que producteurs de biens et services pour usage propre"
+    }, 
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [], 
+              "name": "990 - Activit\u00e9s des organisations et organismes extraterritoriaux"
+            }
+          ], 
+          "name": "99 - Activit\u00e9s des organisations et organismes extraterritoriaux"
+        }
+      ], 
+      "name": "U - Activit\u00e9s extra-territoriales"
+    }
+  ]
+}
